@@ -1,100 +1,100 @@
-Epoch: 0, Reward: -1, Policy loss: 0.6155505180358887, Critic Loss: 41752.55078125
-Epoch: 1, Reward: -1, Policy loss: 0.43675515055656433, Critic Loss: 28512.83203125
-Epoch: 2, Reward: -100, Policy loss: 0.30284661054611206, Critic Loss: 28426.736328125
-Epoch: 3, Reward: -1, Policy loss: 0.14746327698230743, Critic Loss: 28008.044921875
-Epoch: 4, Reward: -1, Policy loss: 0.04355041682720184, Critic Loss: 28286.880859375
-Epoch: 5, Reward: -1, Policy loss: -0.02592504769563675, Critic Loss: 33198.359375
-Epoch: 6, Reward: -1, Policy loss: -0.09617051482200623, Critic Loss: 29160.669921875
-Epoch: 7, Reward: -1, Policy loss: -0.10854652523994446, Critic Loss: 25370.6640625
-Epoch: 8, Reward: -1, Policy loss: -0.13657096028327942, Critic Loss: 29404.77734375
-Epoch: 9, Reward: -1, Policy loss: -0.1453375667333603, Critic Loss: 32649.48828125
-Epoch: 10, Reward: -1, Policy loss: -0.13818717002868652, Critic Loss: 21254.94921875
-Epoch: 11, Reward: -1, Policy loss: -0.15275730192661285, Critic Loss: 23414.509765625
-Epoch: 12, Reward: -1, Policy loss: -0.1425306499004364, Critic Loss: 22347.47265625
-Epoch: 13, Reward: -1, Policy loss: -0.158294215798378, Critic Loss: 21552.765625
-Epoch: 14, Reward: -100, Policy loss: -0.1459428369998932, Critic Loss: 31593.46875
-Epoch: 15, Reward: -1, Policy loss: -0.14604058861732483, Critic Loss: 36791.375
-Epoch: 16, Reward: -1, Policy loss: -0.13726875185966492, Critic Loss: 24015.333984375
-Epoch: 17, Reward: -1, Policy loss: -0.15447868406772614, Critic Loss: 31561.873046875
-Epoch: 18, Reward: -1, Policy loss: -0.1515253484249115, Critic Loss: 26620.849609375
-Epoch: 19, Reward: -1, Policy loss: -0.14701354503631592, Critic Loss: 27226.15625
-Epoch: 20, Reward: -1, Policy loss: -0.15763522684574127, Critic Loss: 20414.353515625
-Epoch: 21, Reward: -1, Policy loss: -0.16628091037273407, Critic Loss: 30277.828125
-Epoch: 22, Reward: -1, Policy loss: -0.16453823447227478, Critic Loss: 35397.25390625
-Epoch: 23, Reward: -1, Policy loss: -0.1620798408985138, Critic Loss: 23328.681640625
-Epoch: 24, Reward: -1, Policy loss: -0.16587136685848236, Critic Loss: 30540.62109375
-Epoch: 25, Reward: -1, Policy loss: -0.15702447295188904, Critic Loss: 28436.96484375
-Epoch: 26, Reward: -1, Policy loss: -0.1636171191930771, Critic Loss: 30296.419921875
-Epoch: 27, Reward: -1, Policy loss: -0.16543471813201904, Critic Loss: 27810.943359375
-Epoch: 28, Reward: -1, Policy loss: -0.17564982175827026, Critic Loss: 25932.234375
-Epoch: 29, Reward: -1, Policy loss: -0.16511045396327972, Critic Loss: 29031.318359375
-Epoch: 30, Reward: -1, Policy loss: -0.17474286258220673, Critic Loss: 22834.287109375
-Epoch: 31, Reward: -1, Policy loss: -0.16671094298362732, Critic Loss: 23600.5
-Epoch: 32, Reward: -1, Policy loss: -0.18160875141620636, Critic Loss: 34822.5390625
-Epoch: 33, Reward: -100, Policy loss: -0.1730230748653412, Critic Loss: 19821.21484375
-Epoch: 34, Reward: -1, Policy loss: -0.17235395312309265, Critic Loss: 24647.408203125
-Epoch: 35, Reward: -1, Policy loss: -0.16580086946487427, Critic Loss: 23902.099609375
-Epoch: 36, Reward: -100, Policy loss: -0.16517318785190582, Critic Loss: 30045.7265625
-Epoch: 37, Reward: -1, Policy loss: -0.17521992325782776, Critic Loss: 26707.13671875
-Epoch: 38, Reward: -1, Policy loss: -0.164047971367836, Critic Loss: 24386.44140625
-Epoch: 39, Reward: -100, Policy loss: -0.16879089176654816, Critic Loss: 25690.513671875
-Epoch: 40, Reward: -1, Policy loss: -0.16598793864250183, Critic Loss: 26584.19921875
-Epoch: 41, Reward: -1, Policy loss: -0.1768692582845688, Critic Loss: 28747.591796875
-Epoch: 42, Reward: -1, Policy loss: -0.16951824724674225, Critic Loss: 32686.1484375
-Epoch: 43, Reward: -100, Policy loss: -0.1836124211549759, Critic Loss: 25073.48046875
-Epoch: 44, Reward: -1, Policy loss: -0.17013555765151978, Critic Loss: 22717.001953125
-Epoch: 45, Reward: -1, Policy loss: -0.17755772173404694, Critic Loss: 20685.7578125
-Epoch: 46, Reward: -1, Policy loss: -0.16687776148319244, Critic Loss: 25519.853515625
-Epoch: 47, Reward: -1, Policy loss: -0.17379173636436462, Critic Loss: 24028.97265625
-Epoch: 48, Reward: -1, Policy loss: -0.16170243918895721, Critic Loss: 26912.23828125
-Epoch: 49, Reward: -1, Policy loss: -0.1919236034154892, Critic Loss: 24817.044921875
-Epoch: 50, Reward: -1, Policy loss: -0.1534431129693985, Critic Loss: 16785.51171875
-Epoch: 51, Reward: -100, Policy loss: -0.18143591284751892, Critic Loss: 22356.07421875
-Epoch: 52, Reward: -1, Policy loss: -0.1667328178882599, Critic Loss: 33604.2890625
-Epoch: 53, Reward: -1, Policy loss: -0.18203304708003998, Critic Loss: 26474.916015625
-Epoch: 54, Reward: -1, Policy loss: -0.18482883274555206, Critic Loss: 21341.3046875
-Epoch: 55, Reward: -1, Policy loss: -0.14232875406742096, Critic Loss: 27799.93359375
-Epoch: 56, Reward: -1, Policy loss: -0.17637276649475098, Critic Loss: 22659.802734375
-Epoch: 57, Reward: -1, Policy loss: -0.15272435545921326, Critic Loss: 26918.69140625
-Epoch: 58, Reward: -1, Policy loss: -0.1773482710123062, Critic Loss: 25499.04296875
-Epoch: 59, Reward: -1, Policy loss: -0.15746057033538818, Critic Loss: 23261.943359375
-Epoch: 60, Reward: -1, Policy loss: -0.17763181030750275, Critic Loss: 24715.802734375
-Epoch: 61, Reward: -1, Policy loss: -0.17249342799186707, Critic Loss: 25174.375
-Epoch: 62, Reward: -1, Policy loss: -0.18302009999752045, Critic Loss: 33620.18359375
-Epoch: 63, Reward: -1, Policy loss: -0.17568404972553253, Critic Loss: 21451.201171875
-Epoch: 64, Reward: -1, Policy loss: -0.16750910878181458, Critic Loss: 19652.80859375
-Epoch: 65, Reward: -1, Policy loss: -0.17051099240779877, Critic Loss: 19892.505859375
-Epoch: 66, Reward: -1, Policy loss: -0.17976908385753632, Critic Loss: 26216.951171875
-Epoch: 67, Reward: -1, Policy loss: -0.17497704923152924, Critic Loss: 27709.861328125
-Epoch: 68, Reward: -1, Policy loss: -0.17498306930065155, Critic Loss: 28379.390625
-Epoch: 69, Reward: -1, Policy loss: -0.17777913808822632, Critic Loss: 25629.169921875
-Epoch: 70, Reward: -1, Policy loss: -0.17173925042152405, Critic Loss: 23865.08203125
-Epoch: 71, Reward: -1, Policy loss: -0.1860138326883316, Critic Loss: 26939.166015625
-Epoch: 72, Reward: -1, Policy loss: -0.16284120082855225, Critic Loss: 20223.32421875
-Epoch: 73, Reward: -1, Policy loss: -0.18346667289733887, Critic Loss: 27082.72265625
-Epoch: 74, Reward: -1, Policy loss: -0.16330815851688385, Critic Loss: 16286.73828125
-Epoch: 75, Reward: -1, Policy loss: -0.18050715327262878, Critic Loss: 18883.0703125
-Epoch: 76, Reward: -1, Policy loss: -0.1651581972837448, Critic Loss: 26548.990234375
-Epoch: 77, Reward: -1, Policy loss: -0.17930155992507935, Critic Loss: 18475.224609375
-Epoch: 78, Reward: -1, Policy loss: -0.16504332423210144, Critic Loss: 22003.685546875
-Epoch: 79, Reward: -100, Policy loss: -0.1819590926170349, Critic Loss: 16952.66015625
-Epoch: 80, Reward: -1, Policy loss: -0.1639220267534256, Critic Loss: 22927.8125
-Epoch: 81, Reward: -1, Policy loss: -0.18817491829395294, Critic Loss: 25692.8046875
-Epoch: 82, Reward: -1, Policy loss: -0.15773321688175201, Critic Loss: 25507.728515625
-Epoch: 83, Reward: -1, Policy loss: -0.18335704505443573, Critic Loss: 26750.861328125
-Epoch: 84, Reward: -1, Policy loss: -0.1665022373199463, Critic Loss: 25573.3984375
-Epoch: 85, Reward: -1, Policy loss: -0.1862977296113968, Critic Loss: 25312.111328125
-Epoch: 86, Reward: -1, Policy loss: -0.16944128274917603, Critic Loss: 17234.04296875
-Epoch: 87, Reward: -1, Policy loss: -0.18429580330848694, Critic Loss: 23463.24609375
-Epoch: 88, Reward: -100, Policy loss: -0.16028501093387604, Critic Loss: 24838.177734375
-Epoch: 89, Reward: -1, Policy loss: -0.18993934988975525, Critic Loss: 18447.5859375
-Epoch: 90, Reward: -1, Policy loss: -0.16872979700565338, Critic Loss: 23703.35546875
-Epoch: 91, Reward: -1, Policy loss: -0.1867227852344513, Critic Loss: 21818.384765625
-Epoch: 92, Reward: -1, Policy loss: -0.17066460847854614, Critic Loss: 32156.146484375
-Epoch: 93, Reward: -1, Policy loss: -0.18294036388397217, Critic Loss: 24181.705078125
-Epoch: 94, Reward: -1, Policy loss: -0.15231971442699432, Critic Loss: 26295.681640625
-Epoch: 95, Reward: -1, Policy loss: -0.1907142549753189, Critic Loss: 20621.5859375
-Epoch: 96, Reward: -1, Policy loss: -0.1624801605939865, Critic Loss: 30543.5390625
-Epoch: 97, Reward: -1, Policy loss: -0.19085481762886047, Critic Loss: 22237.150390625
-Epoch: 98, Reward: -100, Policy loss: -0.1641782969236374, Critic Loss: 29427.51953125
-Epoch: 99, Reward: -1, Policy loss: -0.18860387802124023, Critic Loss: 23027.673828125
+Iteration: 0, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.12689410150051117 Critic Loss: 26455.4375
+Iteration: 1, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1352200210094452 Critic Loss: 16373.8896484375
+Iteration: 2, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13743896782398224 Critic Loss: 14595.04296875
+Iteration: 3, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13809262216091156 Critic Loss: 24578.755859375
+Iteration: 4, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13806086778640747 Critic Loss: 12509.22265625
+Iteration: 5, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1381082981824875 Critic Loss: 12313.6142578125
+Iteration: 6, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13821612298488617 Critic Loss: 16536.103515625
+Iteration: 7, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1382078230381012 Critic Loss: 9840.802734375
+Iteration: 8, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13825641572475433 Critic Loss: 17704.84765625
+Iteration: 9, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13829009234905243 Critic Loss: 11052.9521484375
+Iteration: 10, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13835455477237701 Critic Loss: 10548.9423828125
+Iteration: 11, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13835307955741882 Critic Loss: 11657.19140625
+Iteration: 12, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13841234147548676 Critic Loss: 10685.4326171875
+Iteration: 13, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1384541243314743 Critic Loss: 12185.4951171875
+Iteration: 14, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13848422467708588 Critic Loss: 13249.1611328125
+Iteration: 15, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13854379951953888 Critic Loss: 16614.61328125
+Iteration: 16, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1385844647884369 Critic Loss: 11655.3779296875
+Iteration: 17, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13859987258911133 Critic Loss: 14678.552734375
+Iteration: 18, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13861136138439178 Critic Loss: 10690.1689453125
+Iteration: 19, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13861525058746338 Critic Loss: 8514.640625
+Iteration: 20, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862141966819763 Critic Loss: 11310.603515625
+Iteration: 21, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862347602844238 Critic Loss: 8253.8583984375
+Iteration: 22, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862445950508118 Critic Loss: 12082.69921875
+Iteration: 23, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386251002550125 Critic Loss: 10062.5244140625
+Iteration: 24, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862554728984833 Critic Loss: 9187.40234375
+Iteration: 25, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386260688304901 Critic Loss: 10000.1396484375
+Iteration: 26, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862667977809906 Critic Loss: 9828.119140625
+Iteration: 27, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862690329551697 Critic Loss: 8348.3193359375
+Iteration: 28, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386270970106125 Critic Loss: 13660.1279296875
+Iteration: 29, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13862667977809906 Critic Loss: 12451.88671875
+Iteration: 30, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386278122663498 Critic Loss: 11276.9482421875
+Iteration: 31, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862739503383636 Critic Loss: 8289.4541015625
+Iteration: 32, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862736523151398 Critic Loss: 12928.6708984375
+Iteration: 33, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862746953964233 Critic Loss: 9848.0283203125
+Iteration: 34, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13862749934196472 Critic Loss: 11417.8447265625
+Iteration: 35, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862751424312592 Critic Loss: 9044.361328125
+Iteration: 36, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386280655860901 Critic Loss: 14337.2841796875
+Iteration: 37, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862788677215576 Critic Loss: 7761.34912109375
+Iteration: 38, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862811028957367 Critic Loss: 12463.2646484375
+Iteration: 39, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862816989421844 Critic Loss: 10258.2109375
+Iteration: 40, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862799108028412 Critic Loss: 8634.1591796875
+Iteration: 41, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862775266170502 Critic Loss: 12990.09765625
+Iteration: 42, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386280506849289 Critic Loss: 15178.4306640625
+Iteration: 43, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862793147563934 Critic Loss: 8005.8623046875
+Iteration: 44, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13862808048725128 Critic Loss: 14427.53515625
+Iteration: 45, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862812519073486 Critic Loss: 12565.57421875
+Iteration: 46, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862794637680054 Critic Loss: 7691.96044921875
+Iteration: 47, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862811028957367 Critic Loss: 11299.32421875
+Iteration: 48, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862819969654083 Critic Loss: 13750.37890625
+Iteration: 49, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386280059814453 Critic Loss: 7586.021484375
+Iteration: 50, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862808048725128 Critic Loss: 12013.986328125
+Iteration: 51, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862840831279755 Critic Loss: 14659.5322265625
+Iteration: 52, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386285275220871 Critic Loss: 11668.751953125
+Iteration: 53, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862811028957367 Critic Loss: 9512.0048828125
+Iteration: 54, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.138628289103508 Critic Loss: 10077.546875
+Iteration: 55, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862815499305725 Critic Loss: 9021.896484375
+Iteration: 56, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386280208826065 Critic Loss: 13166.353515625
+Iteration: 57, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862824440002441 Critic Loss: 9454.958984375
+Iteration: 58, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862819969654083 Critic Loss: 8678.7197265625
+Iteration: 59, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386285126209259 Critic Loss: 12394.20703125
+Iteration: 60, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.138628289103508 Critic Loss: 10591.8515625
+Iteration: 61, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862857222557068 Critic Loss: 12967.6142578125
+Iteration: 62, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862866163253784 Critic Loss: 9238.0498046875
+Iteration: 63, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862842321395874 Critic Loss: 11442.083984375
+Iteration: 64, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862834870815277 Critic Loss: 9900.193359375
+Iteration: 65, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.138628289103508 Critic Loss: 6375.35595703125
+Iteration: 66, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862816989421844 Critic Loss: 12757.505859375
+Iteration: 67, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862858712673187 Critic Loss: 8711.642578125
+Iteration: 68, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862845301628113 Critic Loss: 10805.0185546875
+Iteration: 69, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862842321395874 Critic Loss: 10791.72265625
+Iteration: 70, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862846791744232 Critic Loss: 7931.818359375
+Iteration: 71, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862834870815277 Critic Loss: 9953.58984375
+Iteration: 72, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862840831279755 Critic Loss: 11556.986328125
+Iteration: 73, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862833380699158 Critic Loss: 8068.46630859375
+Iteration: 74, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13862863183021545 Critic Loss: 14303.0185546875
+Iteration: 75, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862861692905426 Critic Loss: 11780.435546875
+Iteration: 76, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862845301628113 Critic Loss: 17113.8359375
+Iteration: 77, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862840831279755 Critic Loss: 11860.904296875
+Iteration: 78, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862846791744232 Critic Loss: 13655.46484375
+Iteration: 79, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862837851047516 Critic Loss: 6192.35107421875
+Iteration: 80, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862858712673187 Critic Loss: 12823.5478515625
+Iteration: 81, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862870633602142 Critic Loss: 9275.8330078125
+Iteration: 82, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.1386287808418274 Critic Loss: 14118.5068359375
+Iteration: 83, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862870633602142 Critic Loss: 9164.5068359375
+Iteration: 84, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862834870815277 Critic Loss: 13461.0234375
+Iteration: 85, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862855732440948 Critic Loss: 11806.2783203125
+Iteration: 86, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862860202789307 Critic Loss: 8999.994140625
+Iteration: 87, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862861692905426 Critic Loss: 9945.1474609375
+Iteration: 88, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.1386285424232483 Critic Loss: 10315.580078125
+Iteration: 89, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862858712673187 Critic Loss: 7508.30517578125
+Iteration: 90, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386287808418274 Critic Loss: 11570.0087890625
+Iteration: 91, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862857222557068 Critic Loss: 11360.7109375
+Iteration: 92, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862881064414978 Critic Loss: 9775.61328125
+Iteration: 93, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386287659406662 Critic Loss: 7919.0751953125
+Iteration: 94, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862891495227814 Critic Loss: 10795.142578125
+Iteration: 95, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13862870633602142 Critic Loss: 7049.69970703125
+Iteration: 96, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862884044647217 Critic Loss: 10989.49609375
+Iteration: 97, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862887024879456 Critic Loss: 8372.7001953125
+Iteration: 98, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862881064414978 Critic Loss: 15251.5361328125
+Iteration: 99, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386287659406662 Critic Loss: 10422.0810546875

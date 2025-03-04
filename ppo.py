@@ -12,7 +12,7 @@ def get_one_hot(size, idx):
     return oh
 
 
-def ppo(env, actor_layers, critic_layers, num_epochs, num_steps_per_epoch, actor_lr, critic_lr, gamma, lamb, entropy_weight, ppo_clip):
+def ppo(env, actor_layers, critic_layers, iterations, epochs_per_iteration, num_steps_per_epoch, actor_lr, critic_lr, gamma, lamb, entropy_weight, ppo_clip):
 
     buffer = Buffer(num_steps_per_epoch, env.observation_space.n, 1, gamma, lamb) #action size of 1
     ac = ActorCritic(actor_layers, critic_layers, nn.ReLU)
@@ -21,8 +21,10 @@ def ppo(env, actor_layers, critic_layers, num_epochs, num_steps_per_epoch, actor
     checkpoint_dir = f"checkpoints/{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}"
     os.makedirs(checkpoint_dir, exist_ok=True)
         
+    actor_optimizer = torch.optim.Adam(ac.actor.parameters(), lr=actor_lr)
+    critic_optimizer = torch.optim.Adam(ac.v.parameters(), lr=critic_lr)
 
-    for epoch in range(num_epochs):
+    for iteration in range(iterations):
         obs, info = env.reset()
         
         for step in range(num_steps_per_epoch):
@@ -50,42 +52,44 @@ def ppo(env, actor_layers, critic_layers, num_epochs, num_steps_per_epoch, actor
         
         data = buffer.get() #in pytorch form
 
-        obs_batch, act_batch, rew_batch, ret_batch,  val_batch, logp_pi_old_batch, adv_batch = data['obs'], data['act'], data['rew'], data['ret'], data['val'], data['logp'], data['adv']
-        # obs_batch: batch x obs_space
-        # act_batch: batch x 1
-        # logp_batch: batch x 1
-        # adv_batch: batch x 1
-        # optimize the actor and critic
-        actor_optimizer = torch.optim.Adam(ac.actor.parameters(), lr=actor_lr)
+        for epoch in range(epochs_per_iteration):
+            obs_batch, act_batch, rew_batch, ret_batch,  val_batch, logp_pi_old_batch, adv_batch = data['obs'], data['act'], data['rew'], data['ret'], data['val'], data['logp'], data['adv']
+            # obs_batch: batch x obs_space
+            # act_batch: batch x 1
+            # logp_batch: batch x 1
+            # adv_batch: batch x 1
+            # optimize the actor and critic
+            
+            # adv batch normalization
+            adv_batch = (adv_batch-adv_batch.mean())/(adv_batch.std() + 1e-8)
 
 
-        act_disbn = ac.actor.get_distribution(ac.actor(obs_batch))
-        logp_pi_batch = act_disbn.log_prob(act_batch)
-        
-        ratio = torch.exp(logp_pi_batch - logp_pi_old_batch)
-        # TODO: add entropy bonus and make sure that you do this clamping per sample here
-        # print('adv_batch', adv_batch.mean())
-        # print('ratio', ratio.mean(), logp_pi_batch.mean(), logp_pi_old_batch.mean())
-        # print('term 1', (adv_batch * torch.clamp(ratio, 1-ppo_clip, 1+ppo_clip)).mean())
-        # print('term 2', (adv_batch * ratio).mean())
-        
-        loss_clip = -torch.min(adv_batch * torch.clamp(ratio, 1-ppo_clip, 1+ppo_clip), adv_batch * ratio).mean() # batch x ppo 
-        loss_actor_entropy = -act_disbn.entropy().mean()
-        loss_actor = loss_clip + entropy_weight * loss_actor_entropy 
-        actor_optimizer.zero_grad()
-        loss_actor.backward()
-        actor_optimizer.step()
+            act_disbn = ac.actor.get_distribution(ac.actor(obs_batch))
+            logp_pi_batch = act_disbn.log_prob(act_batch)
+            
+            ratio = torch.exp(logp_pi_batch - logp_pi_old_batch)
+            # TODO: add entropy bonus and make sure that you do this clamping per sample here
+            # print('adv_batch', adv_batch.mean())
+            # print('ratio', ratio.mean(), logp_pi_batch.mean(), logp_pi_old_batch.mean())
+            # print('term 1', (adv_batch * torch.clamp(ratio, 1-ppo_clip, 1+ppo_clip)).mean())
+            # print('term 2', (adv_batch * ratio).mean())
+            
+            loss_clip = -torch.min(adv_batch * torch.clamp(ratio, 1-ppo_clip, 1+ppo_clip), adv_batch * ratio).mean() # batch x ppo 
+            loss_actor_entropy = -act_disbn.entropy().mean()
+            loss_actor = loss_clip + entropy_weight * loss_actor_entropy 
+            actor_optimizer.zero_grad()
+            loss_actor.backward()
+            actor_optimizer.step()
 
-        # optimize the critic now
-        critic_optimizer = torch.optim.Adam(ac.v.parameters(), lr=critic_lr)
-        # numpy stuff returned here - no gradients to backprop on ...
+            # optimize the critic now
+            # numpy stuff returned here - no gradients to backprop on ...
 
-        vals = ac.v(obs_batch)
-        loss_critic = ((vals - ret_batch)**2).mean()
-        critic_optimizer.zero_grad()
-        loss_critic.backward()
-        critic_optimizer.step()
-        ac.save(actor_optimizer, critic_optimizer, checkpoint_dir, epoch)
+            vals = ac.v(obs_batch)
+            loss_critic = ((vals - ret_batch)**2).mean()
+            critic_optimizer.zero_grad()
+            loss_critic.backward()
+            critic_optimizer.step()
+            ac.save(actor_optimizer, critic_optimizer, checkpoint_dir, epoch)
 
-        
-        f.write(f"Epoch: {epoch}, Reward: {rew}, Policy loss: {loss_actor}, Critic Loss: {loss_critic}\n")
+            
+        f.write(f"Iteration: {iteration}, Reward: {rew}, Policy CLIP loss: {loss_clip}, Entropy Loss: {entropy_weight * loss_actor_entropy} Critic Loss: {loss_critic}\n")
