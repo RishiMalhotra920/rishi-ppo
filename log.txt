@@ -1,100 +1,480 @@
-Iteration: 0, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.12689410150051117 Critic Loss: 26455.4375
-Iteration: 1, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1352200210094452 Critic Loss: 16373.8896484375
-Iteration: 2, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13743896782398224 Critic Loss: 14595.04296875
-Iteration: 3, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13809262216091156 Critic Loss: 24578.755859375
-Iteration: 4, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13806086778640747 Critic Loss: 12509.22265625
-Iteration: 5, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1381082981824875 Critic Loss: 12313.6142578125
-Iteration: 6, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13821612298488617 Critic Loss: 16536.103515625
-Iteration: 7, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1382078230381012 Critic Loss: 9840.802734375
-Iteration: 8, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13825641572475433 Critic Loss: 17704.84765625
-Iteration: 9, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13829009234905243 Critic Loss: 11052.9521484375
-Iteration: 10, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13835455477237701 Critic Loss: 10548.9423828125
-Iteration: 11, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13835307955741882 Critic Loss: 11657.19140625
-Iteration: 12, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13841234147548676 Critic Loss: 10685.4326171875
-Iteration: 13, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1384541243314743 Critic Loss: 12185.4951171875
-Iteration: 14, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13848422467708588 Critic Loss: 13249.1611328125
-Iteration: 15, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13854379951953888 Critic Loss: 16614.61328125
-Iteration: 16, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1385844647884369 Critic Loss: 11655.3779296875
-Iteration: 17, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13859987258911133 Critic Loss: 14678.552734375
-Iteration: 18, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13861136138439178 Critic Loss: 10690.1689453125
-Iteration: 19, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13861525058746338 Critic Loss: 8514.640625
-Iteration: 20, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862141966819763 Critic Loss: 11310.603515625
-Iteration: 21, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862347602844238 Critic Loss: 8253.8583984375
-Iteration: 22, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862445950508118 Critic Loss: 12082.69921875
-Iteration: 23, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386251002550125 Critic Loss: 10062.5244140625
-Iteration: 24, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862554728984833 Critic Loss: 9187.40234375
-Iteration: 25, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386260688304901 Critic Loss: 10000.1396484375
-Iteration: 26, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862667977809906 Critic Loss: 9828.119140625
-Iteration: 27, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862690329551697 Critic Loss: 8348.3193359375
-Iteration: 28, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386270970106125 Critic Loss: 13660.1279296875
-Iteration: 29, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13862667977809906 Critic Loss: 12451.88671875
-Iteration: 30, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386278122663498 Critic Loss: 11276.9482421875
-Iteration: 31, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862739503383636 Critic Loss: 8289.4541015625
-Iteration: 32, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862736523151398 Critic Loss: 12928.6708984375
-Iteration: 33, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862746953964233 Critic Loss: 9848.0283203125
-Iteration: 34, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13862749934196472 Critic Loss: 11417.8447265625
-Iteration: 35, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862751424312592 Critic Loss: 9044.361328125
-Iteration: 36, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386280655860901 Critic Loss: 14337.2841796875
-Iteration: 37, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862788677215576 Critic Loss: 7761.34912109375
-Iteration: 38, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862811028957367 Critic Loss: 12463.2646484375
-Iteration: 39, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862816989421844 Critic Loss: 10258.2109375
-Iteration: 40, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862799108028412 Critic Loss: 8634.1591796875
-Iteration: 41, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862775266170502 Critic Loss: 12990.09765625
-Iteration: 42, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386280506849289 Critic Loss: 15178.4306640625
-Iteration: 43, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862793147563934 Critic Loss: 8005.8623046875
-Iteration: 44, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13862808048725128 Critic Loss: 14427.53515625
-Iteration: 45, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862812519073486 Critic Loss: 12565.57421875
-Iteration: 46, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862794637680054 Critic Loss: 7691.96044921875
-Iteration: 47, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862811028957367 Critic Loss: 11299.32421875
-Iteration: 48, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862819969654083 Critic Loss: 13750.37890625
-Iteration: 49, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386280059814453 Critic Loss: 7586.021484375
-Iteration: 50, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862808048725128 Critic Loss: 12013.986328125
-Iteration: 51, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862840831279755 Critic Loss: 14659.5322265625
-Iteration: 52, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386285275220871 Critic Loss: 11668.751953125
-Iteration: 53, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862811028957367 Critic Loss: 9512.0048828125
-Iteration: 54, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.138628289103508 Critic Loss: 10077.546875
-Iteration: 55, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862815499305725 Critic Loss: 9021.896484375
-Iteration: 56, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386280208826065 Critic Loss: 13166.353515625
-Iteration: 57, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862824440002441 Critic Loss: 9454.958984375
-Iteration: 58, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862819969654083 Critic Loss: 8678.7197265625
-Iteration: 59, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386285126209259 Critic Loss: 12394.20703125
-Iteration: 60, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.138628289103508 Critic Loss: 10591.8515625
-Iteration: 61, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862857222557068 Critic Loss: 12967.6142578125
-Iteration: 62, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862866163253784 Critic Loss: 9238.0498046875
-Iteration: 63, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862842321395874 Critic Loss: 11442.083984375
-Iteration: 64, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862834870815277 Critic Loss: 9900.193359375
-Iteration: 65, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.138628289103508 Critic Loss: 6375.35595703125
-Iteration: 66, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862816989421844 Critic Loss: 12757.505859375
-Iteration: 67, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862858712673187 Critic Loss: 8711.642578125
-Iteration: 68, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862845301628113 Critic Loss: 10805.0185546875
-Iteration: 69, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862842321395874 Critic Loss: 10791.72265625
-Iteration: 70, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862846791744232 Critic Loss: 7931.818359375
-Iteration: 71, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862834870815277 Critic Loss: 9953.58984375
-Iteration: 72, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862840831279755 Critic Loss: 11556.986328125
-Iteration: 73, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862833380699158 Critic Loss: 8068.46630859375
-Iteration: 74, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13862863183021545 Critic Loss: 14303.0185546875
-Iteration: 75, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862861692905426 Critic Loss: 11780.435546875
-Iteration: 76, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862845301628113 Critic Loss: 17113.8359375
-Iteration: 77, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862840831279755 Critic Loss: 11860.904296875
-Iteration: 78, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862846791744232 Critic Loss: 13655.46484375
-Iteration: 79, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862837851047516 Critic Loss: 6192.35107421875
-Iteration: 80, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862858712673187 Critic Loss: 12823.5478515625
-Iteration: 81, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862870633602142 Critic Loss: 9275.8330078125
-Iteration: 82, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.1386287808418274 Critic Loss: 14118.5068359375
-Iteration: 83, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862870633602142 Critic Loss: 9164.5068359375
-Iteration: 84, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862834870815277 Critic Loss: 13461.0234375
-Iteration: 85, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862855732440948 Critic Loss: 11806.2783203125
-Iteration: 86, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862860202789307 Critic Loss: 8999.994140625
-Iteration: 87, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862861692905426 Critic Loss: 9945.1474609375
-Iteration: 88, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.1386285424232483 Critic Loss: 10315.580078125
-Iteration: 89, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862858712673187 Critic Loss: 7508.30517578125
-Iteration: 90, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386287808418274 Critic Loss: 11570.0087890625
-Iteration: 91, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862857222557068 Critic Loss: 11360.7109375
-Iteration: 92, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862881064414978 Critic Loss: 9775.61328125
-Iteration: 93, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386287659406662 Critic Loss: 7919.0751953125
-Iteration: 94, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862891495227814 Critic Loss: 10795.142578125
-Iteration: 95, Reward: -100, Policy CLIP loss: -0.0, Entropy Loss: -0.13862870633602142 Critic Loss: 7049.69970703125
-Iteration: 96, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862884044647217 Critic Loss: 10989.49609375
-Iteration: 97, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862887024879456 Critic Loss: 8372.7001953125
-Iteration: 98, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.13862881064414978 Critic Loss: 15251.5361328125
-Iteration: 99, Reward: -1, Policy CLIP loss: -0.0, Entropy Loss: -0.1386287659406662 Critic Loss: 10422.0810546875
+Iteration: 0, Avg Return: -36.908363342285156, Policy CLIP loss: -0.03727193921804428, Entropy Loss: -0.6795914173126221 Critic Loss: 1035.633544921875
+Iteration: 1, Avg Return: -8.210796356201172, Policy CLIP loss: -0.02501114457845688, Entropy Loss: -0.6802066564559937 Critic Loss: 86.83251953125
+Iteration: 2, Avg Return: -17.854480743408203, Policy CLIP loss: 0.0025209009181708097, Entropy Loss: -0.68958580493927 Critic Loss: 417.8416442871094
+Iteration: 3, Avg Return: -11.45089340209961, Policy CLIP loss: -0.006124970968812704, Entropy Loss: -0.6897547841072083 Critic Loss: 188.1630096435547
+Iteration: 4, Avg Return: -38.30597686767578, Policy CLIP loss: -0.004227120894938707, Entropy Loss: -0.6891272664070129 Critic Loss: 617.1182250976562
+Iteration: 5, Avg Return: -37.58036804199219, Policy CLIP loss: -0.008472168818116188, Entropy Loss: -0.6875637769699097 Critic Loss: 978.7507934570312
+Iteration: 6, Avg Return: -9.958125114440918, Policy CLIP loss: -0.006047198548913002, Entropy Loss: -0.6859201788902283 Critic Loss: 122.3248519897461
+Iteration: 7, Avg Return: -31.694503784179688, Policy CLIP loss: -0.0035901940427720547, Entropy Loss: -0.6840921640396118 Critic Loss: 734.8104248046875
+Iteration: 8, Avg Return: -12.384391784667969, Policy CLIP loss: -0.0007650780607946217, Entropy Loss: -0.6824555397033691 Critic Loss: 212.98687744140625
+Iteration: 9, Avg Return: -28.618942260742188, Policy CLIP loss: -0.007029297295957804, Entropy Loss: -0.6812185049057007 Critic Loss: 523.7899780273438
+Iteration: 10, Avg Return: -9.177281379699707, Policy CLIP loss: -0.00729306461289525, Entropy Loss: -0.68024080991745 Critic Loss: 103.09864044189453
+Iteration: 11, Avg Return: -29.901636123657227, Policy CLIP loss: -0.0062772654928267, Entropy Loss: -0.6787915825843811 Critic Loss: 804.8975830078125
+Iteration: 12, Avg Return: -48.079898834228516, Policy CLIP loss: -0.0034936796873807907, Entropy Loss: -0.6765016317367554 Critic Loss: 405.8302917480469
+Iteration: 13, Avg Return: -12.42141342163086, Policy CLIP loss: -0.0023520898539572954, Entropy Loss: -0.674953281879425 Critic Loss: 257.7386474609375
+Iteration: 14, Avg Return: -26.099376678466797, Policy CLIP loss: -0.004921536426991224, Entropy Loss: -0.6731027364730835 Critic Loss: 635.8355102539062
+Iteration: 15, Avg Return: -36.735069274902344, Policy CLIP loss: -0.014123649336397648, Entropy Loss: -0.6692944169044495 Critic Loss: 739.6296997070312
+Iteration: 16, Avg Return: -20.458337783813477, Policy CLIP loss: -0.00745280971750617, Entropy Loss: -0.6652022004127502 Critic Loss: 528.00341796875
+Iteration: 17, Avg Return: -8.41054916381836, Policy CLIP loss: -0.0019014393910765648, Entropy Loss: -0.6638400554656982 Critic Loss: 36.98117446899414
+Iteration: 18, Avg Return: -25.370521545410156, Policy CLIP loss: -0.0036437702365219593, Entropy Loss: -0.6636553406715393 Critic Loss: 596.361328125
+Iteration: 19, Avg Return: -14.87200927734375, Policy CLIP loss: -0.004892296623438597, Entropy Loss: -0.6623894572257996 Critic Loss: 339.512451171875
+Iteration: 20, Avg Return: -8.466683387756348, Policy CLIP loss: -0.00201960327103734, Entropy Loss: -0.6641887426376343 Critic Loss: 45.674766540527344
+Iteration: 21, Avg Return: -21.84333038330078, Policy CLIP loss: -0.00477178581058979, Entropy Loss: -0.6632837653160095 Critic Loss: 499.8945617675781
+Iteration: 22, Avg Return: -11.013025283813477, Policy CLIP loss: -0.003836235962808132, Entropy Loss: -0.6621147990226746 Critic Loss: 197.0001678466797
+Iteration: 23, Avg Return: -8.637816429138184, Policy CLIP loss: -0.0041171289049088955, Entropy Loss: -0.664949357509613 Critic Loss: 36.842559814453125
+Iteration: 24, Avg Return: -9.444853782653809, Policy CLIP loss: -0.008656313642859459, Entropy Loss: -0.6659681797027588 Critic Loss: 66.7445068359375
+Iteration: 25, Avg Return: -9.578788757324219, Policy CLIP loss: -0.010786643251776695, Entropy Loss: -0.6657671928405762 Critic Loss: 62.51656723022461
+Iteration: 26, Avg Return: -8.872797966003418, Policy CLIP loss: -0.006377797108143568, Entropy Loss: -0.6653478145599365 Critic Loss: 18.192031860351562
+Iteration: 27, Avg Return: -10.664590835571289, Policy CLIP loss: -0.008926663547754288, Entropy Loss: -0.6662532687187195 Critic Loss: 85.13593292236328
+Iteration: 28, Avg Return: -9.386391639709473, Policy CLIP loss: 0.007719626650214195, Entropy Loss: -0.6671649813652039 Critic Loss: 3.7626054286956787
+Iteration: 29, Avg Return: -23.586565017700195, Policy CLIP loss: -0.021834611892700195, Entropy Loss: -0.6683663129806519 Critic Loss: 430.63800048828125
+Iteration: 30, Avg Return: -28.334579467773438, Policy CLIP loss: -0.013419820927083492, Entropy Loss: -0.6667843461036682 Critic Loss: 454.168701171875
+Iteration: 31, Avg Return: -10.241510391235352, Policy CLIP loss: -0.00094448565505445, Entropy Loss: -0.6662895679473877 Critic Loss: 9.115156173706055
+Iteration: 32, Avg Return: -38.69443130493164, Policy CLIP loss: -0.027459409087896347, Entropy Loss: -0.6631476879119873 Critic Loss: 601.7953491210938
+Iteration: 33, Avg Return: -10.366987228393555, Policy CLIP loss: -0.013992981985211372, Entropy Loss: -0.6638485789299011 Critic Loss: 33.40618133544922
+Iteration: 34, Avg Return: -36.45901870727539, Policy CLIP loss: -0.04106135666370392, Entropy Loss: -0.6547585129737854 Critic Loss: 550.2885131835938
+Iteration: 35, Avg Return: -10.316644668579102, Policy CLIP loss: -0.0201864093542099, Entropy Loss: -0.6570802927017212 Critic Loss: 44.15561294555664
+Iteration: 36, Avg Return: -10.379114151000977, Policy CLIP loss: -0.008756530471146107, Entropy Loss: -0.6596662402153015 Critic Loss: 9.692198753356934
+Iteration: 37, Avg Return: -21.35352325439453, Policy CLIP loss: -0.011928696185350418, Entropy Loss: -0.6570943593978882 Critic Loss: 410.5218505859375
+Iteration: 38, Avg Return: -23.864360809326172, Policy CLIP loss: -0.03722433000802994, Entropy Loss: -0.6548277139663696 Critic Loss: 470.7099914550781
+Iteration: 39, Avg Return: -30.413236618041992, Policy CLIP loss: -0.011386091820895672, Entropy Loss: -0.653708279132843 Critic Loss: 398.3389892578125
+Iteration: 40, Avg Return: -21.74709701538086, Policy CLIP loss: -0.03185953572392464, Entropy Loss: -0.6554480195045471 Critic Loss: 396.6949462890625
+Iteration: 41, Avg Return: -10.739633560180664, Policy CLIP loss: -0.005050835199654102, Entropy Loss: -0.6554224491119385 Critic Loss: 7.1388678550720215
+Iteration: 42, Avg Return: -32.14126205444336, Policy CLIP loss: -0.040789078921079636, Entropy Loss: -0.6563341617584229 Critic Loss: 576.07421875
+Iteration: 43, Avg Return: -36.8427848815918, Policy CLIP loss: -0.058601800352334976, Entropy Loss: -0.6514549851417542 Critic Loss: 635.9622192382812
+Iteration: 44, Avg Return: -11.039113998413086, Policy CLIP loss: 0.023136835545301437, Entropy Loss: -0.6549696326255798 Critic Loss: 30.040103912353516
+Iteration: 45, Avg Return: -34.317665100097656, Policy CLIP loss: -0.02401493489742279, Entropy Loss: -0.6569191217422485 Critic Loss: 506.6919860839844
+Iteration: 46, Avg Return: -11.342199325561523, Policy CLIP loss: 0.009045557118952274, Entropy Loss: -0.6546873450279236 Critic Loss: 25.46153450012207
+Iteration: 47, Avg Return: -11.312739372253418, Policy CLIP loss: -0.016799842938780785, Entropy Loss: -0.6625834703445435 Critic Loss: 11.40368366241455
+Iteration: 48, Avg Return: -29.694433212280273, Policy CLIP loss: -0.026421787217259407, Entropy Loss: -0.658112645149231 Critic Loss: 683.8801879882812
+Iteration: 49, Avg Return: -10.600210189819336, Policy CLIP loss: 0.008134940639138222, Entropy Loss: -0.6595483422279358 Critic Loss: 1.339493989944458
+Iteration: 50, Avg Return: -10.554389953613281, Policy CLIP loss: -0.015573891811072826, Entropy Loss: -0.6642658114433289 Critic Loss: 0.612648069858551
+Iteration: 51, Avg Return: -10.797008514404297, Policy CLIP loss: -0.020169859752058983, Entropy Loss: -0.6620730757713318 Critic Loss: 31.5076961517334
+Iteration: 52, Avg Return: -10.04550552368164, Policy CLIP loss: -0.007291953545063734, Entropy Loss: -0.6651325225830078 Critic Loss: 0.09976310282945633
+Iteration: 53, Avg Return: -25.964065551757812, Policy CLIP loss: -0.039056312292814255, Entropy Loss: -0.6642677187919617 Critic Loss: 632.684326171875
+Iteration: 54, Avg Return: -14.828770637512207, Policy CLIP loss: -0.047528523951768875, Entropy Loss: -0.6618553400039673 Critic Loss: 177.00994873046875
+Iteration: 55, Avg Return: -31.306352615356445, Policy CLIP loss: -0.060054585337638855, Entropy Loss: -0.6567665338516235 Critic Loss: 671.3748779296875
+Iteration: 56, Avg Return: -27.030282974243164, Policy CLIP loss: -0.03945236653089523, Entropy Loss: -0.6556627154350281 Critic Loss: 447.07293701171875
+Iteration: 57, Avg Return: -34.792503356933594, Policy CLIP loss: -0.05299684405326843, Entropy Loss: -0.651328980922699 Critic Loss: 526.6135864257812
+Iteration: 58, Avg Return: -26.664033889770508, Policy CLIP loss: -0.040290042757987976, Entropy Loss: -0.6511887907981873 Critic Loss: 205.2119903564453
+Iteration: 59, Avg Return: -46.010833740234375, Policy CLIP loss: -0.05759985372424126, Entropy Loss: -0.6432821154594421 Critic Loss: 461.6903076171875
+Iteration: 60, Avg Return: -14.03671646118164, Policy CLIP loss: -0.005216494668275118, Entropy Loss: -0.6476213932037354 Critic Loss: 215.10482788085938
+Iteration: 61, Avg Return: -14.008112907409668, Policy CLIP loss: -0.00333287357352674, Entropy Loss: -0.6551734805107117 Critic Loss: 171.35357666015625
+Iteration: 62, Avg Return: -21.35080337524414, Policy CLIP loss: -0.05788886174559593, Entropy Loss: -0.6553663611412048 Critic Loss: 223.9040069580078
+Iteration: 63, Avg Return: -31.59988784790039, Policy CLIP loss: -0.02032054401934147, Entropy Loss: -0.6553793549537659 Critic Loss: 315.5328369140625
+Iteration: 64, Avg Return: -14.58188247680664, Policy CLIP loss: -0.04233861342072487, Entropy Loss: -0.6533735394477844 Critic Loss: 135.82041931152344
+Iteration: 65, Avg Return: -12.017840385437012, Policy CLIP loss: -0.02373156137764454, Entropy Loss: -0.6554900407791138 Critic Loss: 63.79631423950195
+Iteration: 66, Avg Return: -11.602991104125977, Policy CLIP loss: -0.0074373395182192326, Entropy Loss: -0.6571055054664612 Critic Loss: 35.7750358581543
+Iteration: 67, Avg Return: -11.835444450378418, Policy CLIP loss: -0.028816400095820427, Entropy Loss: -0.6603325009346008 Critic Loss: 40.439292907714844
+Iteration: 68, Avg Return: -22.91974639892578, Policy CLIP loss: -0.03180454298853874, Entropy Loss: -0.6608941555023193 Critic Loss: 340.464111328125
+Iteration: 69, Avg Return: -14.497535705566406, Policy CLIP loss: -0.030705934390425682, Entropy Loss: -0.6585709452629089 Critic Loss: 140.4385528564453
+Iteration: 70, Avg Return: -12.377630233764648, Policy CLIP loss: -0.039170462638139725, Entropy Loss: -0.6616892218589783 Critic Loss: 61.09064865112305
+Iteration: 71, Avg Return: -10.615350723266602, Policy CLIP loss: -0.013824444264173508, Entropy Loss: -0.6626732349395752 Critic Loss: 1.6785304546356201
+Iteration: 72, Avg Return: -22.188430786132812, Policy CLIP loss: -0.05252336338162422, Entropy Loss: -0.659898042678833 Critic Loss: 453.5530090332031
+Iteration: 73, Avg Return: -10.963730812072754, Policy CLIP loss: -0.024870116263628006, Entropy Loss: -0.6558275818824768 Critic Loss: 31.142837524414062
+Iteration: 74, Avg Return: -12.511679649353027, Policy CLIP loss: -0.039740290492773056, Entropy Loss: -0.6582178473472595 Critic Loss: 91.7596664428711
+Iteration: 75, Avg Return: -23.702777862548828, Policy CLIP loss: -0.030804334208369255, Entropy Loss: -0.6585171222686768 Critic Loss: 457.26239013671875
+Iteration: 76, Avg Return: -14.45770263671875, Policy CLIP loss: -0.022339897230267525, Entropy Loss: -0.6636573672294617 Critic Loss: 140.7691192626953
+Iteration: 77, Avg Return: -39.15814971923828, Policy CLIP loss: -0.0602051205933094, Entropy Loss: -0.661507248878479 Critic Loss: 721.6873168945312
+Iteration: 78, Avg Return: -29.6370906829834, Policy CLIP loss: -0.04523191601037979, Entropy Loss: -0.6613826155662537 Critic Loss: 477.6846008300781
+Iteration: 79, Avg Return: -11.811755180358887, Policy CLIP loss: -0.052016325294971466, Entropy Loss: -0.6619900465011597 Critic Loss: 63.4727668762207
+Iteration: 80, Avg Return: -27.423288345336914, Policy CLIP loss: -0.038207411766052246, Entropy Loss: -0.6606361269950867 Critic Loss: 324.4620361328125
+Iteration: 81, Avg Return: -21.70229721069336, Policy CLIP loss: -0.028204400092363358, Entropy Loss: -0.6641886830329895 Critic Loss: 249.72975158691406
+Iteration: 82, Avg Return: -13.056960105895996, Policy CLIP loss: -0.02487216517329216, Entropy Loss: -0.6593719720840454 Critic Loss: 103.86113739013672
+Iteration: 83, Avg Return: -12.022137641906738, Policy CLIP loss: -0.017980672419071198, Entropy Loss: -0.6637375354766846 Critic Loss: 65.10760498046875
+Iteration: 84, Avg Return: -26.67568588256836, Policy CLIP loss: -0.042569562792778015, Entropy Loss: -0.6646443009376526 Critic Loss: 392.6253356933594
+Iteration: 85, Avg Return: -48.705631256103516, Policy CLIP loss: -0.07063660025596619, Entropy Loss: -0.6575642228126526 Critic Loss: 822.64697265625
+Iteration: 86, Avg Return: -31.729230880737305, Policy CLIP loss: -0.05109211057424545, Entropy Loss: -0.6623862981796265 Critic Loss: 303.470947265625
+Iteration: 87, Avg Return: -28.56432342529297, Policy CLIP loss: -0.047573577612638474, Entropy Loss: -0.6605979800224304 Critic Loss: 267.30816650390625
+Iteration: 88, Avg Return: -13.255441665649414, Policy CLIP loss: -0.0055462028831243515, Entropy Loss: -0.6586633324623108 Critic Loss: 182.5989990234375
+Iteration: 89, Avg Return: -14.176012992858887, Policy CLIP loss: -0.02781663089990616, Entropy Loss: -0.6627897620201111 Critic Loss: 160.40457153320312
+Iteration: 90, Avg Return: -12.95239543914795, Policy CLIP loss: -0.016844691708683968, Entropy Loss: -0.6685147881507874 Critic Loss: 105.3371353149414
+Iteration: 91, Avg Return: -30.4108829498291, Policy CLIP loss: -0.04861462488770485, Entropy Loss: -0.662757158279419 Critic Loss: 404.97100830078125
+Iteration: 92, Avg Return: -30.155141830444336, Policy CLIP loss: -0.05031569302082062, Entropy Loss: -0.6622714400291443 Critic Loss: 387.1067810058594
+Iteration: 93, Avg Return: -19.337553024291992, Policy CLIP loss: -0.02596413530409336, Entropy Loss: -0.6656270027160645 Critic Loss: 230.1336212158203
+Iteration: 94, Avg Return: -42.34134292602539, Policy CLIP loss: -0.051667165011167526, Entropy Loss: -0.6653180122375488 Critic Loss: 509.2488098144531
+Iteration: 95, Avg Return: -37.85527038574219, Policy CLIP loss: -0.04970422387123108, Entropy Loss: -0.6655491590499878 Critic Loss: 416.4245910644531
+Iteration: 96, Avg Return: -12.648741722106934, Policy CLIP loss: -0.017402730882167816, Entropy Loss: -0.6678518056869507 Critic Loss: 187.87493896484375
+Iteration: 97, Avg Return: -16.667173385620117, Policy CLIP loss: -0.016454311087727547, Entropy Loss: -0.669014573097229 Critic Loss: 195.72821044921875
+Iteration: 98, Avg Return: -34.448829650878906, Policy CLIP loss: -0.027190735563635826, Entropy Loss: -0.6697204113006592 Critic Loss: 331.5444641113281
+Iteration: 99, Avg Return: -42.79505920410156, Policy CLIP loss: -0.05594906210899353, Entropy Loss: -0.669605016708374 Critic Loss: 423.2540588378906
+Iteration: 100, Avg Return: -16.7763729095459, Policy CLIP loss: -0.042542293667793274, Entropy Loss: -0.6674609184265137 Critic Loss: 220.5720977783203
+Iteration: 101, Avg Return: -34.00082778930664, Policy CLIP loss: -0.05969970300793648, Entropy Loss: -0.6653085947036743 Critic Loss: 268.5120544433594
+Iteration: 102, Avg Return: -12.991393089294434, Policy CLIP loss: -0.015782363712787628, Entropy Loss: -0.6633868217468262 Critic Loss: 190.98129272460938
+Iteration: 103, Avg Return: -24.853233337402344, Policy CLIP loss: -0.043790046125650406, Entropy Loss: -0.6661561727523804 Critic Loss: 224.5962677001953
+Iteration: 104, Avg Return: -47.08244323730469, Policy CLIP loss: -0.06413624435663223, Entropy Loss: -0.6674675941467285 Critic Loss: 545.7310791015625
+Iteration: 105, Avg Return: -47.12156295776367, Policy CLIP loss: -0.05977310985326767, Entropy Loss: -0.66082763671875 Critic Loss: 514.5424194335938
+Iteration: 106, Avg Return: -13.104787826538086, Policy CLIP loss: -0.0004912626463919878, Entropy Loss: -0.6642143130302429 Critic Loss: 200.86341857910156
+Iteration: 107, Avg Return: -13.078507423400879, Policy CLIP loss: -0.006285065319389105, Entropy Loss: -0.6683487892150879 Critic Loss: 163.031494140625
+Iteration: 108, Avg Return: -15.895149230957031, Policy CLIP loss: -0.05222514271736145, Entropy Loss: -0.6715945601463318 Critic Loss: 156.87088012695312
+Iteration: 109, Avg Return: -20.562925338745117, Policy CLIP loss: -0.04261266067624092, Entropy Loss: -0.6662755012512207 Critic Loss: 240.767578125
+Iteration: 110, Avg Return: -11.485174179077148, Policy CLIP loss: -0.015359415672719479, Entropy Loss: -0.6678875088691711 Critic Loss: 59.206661224365234
+Iteration: 111, Avg Return: -42.86357116699219, Policy CLIP loss: -0.046528082340955734, Entropy Loss: -0.6679902076721191 Critic Loss: 709.0438842773438
+Iteration: 112, Avg Return: -11.042935371398926, Policy CLIP loss: -0.009246974252164364, Entropy Loss: -0.6699382066726685 Critic Loss: 50.367313385009766
+Iteration: 113, Avg Return: -42.74897384643555, Policy CLIP loss: -0.03631424158811569, Entropy Loss: -0.6695275902748108 Critic Loss: 783.4312744140625
+Iteration: 114, Avg Return: -41.576473236083984, Policy CLIP loss: -0.06713660806417465, Entropy Loss: -0.6674511432647705 Critic Loss: 622.3176879882812
+Iteration: 115, Avg Return: -20.002029418945312, Policy CLIP loss: -0.05011023208498955, Entropy Loss: -0.6683906316757202 Critic Loss: 256.4944763183594
+Iteration: 116, Avg Return: -31.976207733154297, Policy CLIP loss: -0.046558208763599396, Entropy Loss: -0.6679136157035828 Critic Loss: 340.0034484863281
+Iteration: 117, Avg Return: -35.306949615478516, Policy CLIP loss: -0.05291306972503662, Entropy Loss: -0.669822096824646 Critic Loss: 353.705322265625
+Iteration: 118, Avg Return: -39.79694747924805, Policy CLIP loss: -0.03062465228140354, Entropy Loss: -0.6641187071800232 Critic Loss: 393.1622314453125
+Iteration: 119, Avg Return: -36.499691009521484, Policy CLIP loss: -0.05399976670742035, Entropy Loss: -0.6652053594589233 Critic Loss: 293.5871887207031
+Iteration: 120, Avg Return: -13.949819564819336, Policy CLIP loss: 0.009988907724618912, Entropy Loss: -0.665377676486969 Critic Loss: 247.77244567871094
+Iteration: 121, Avg Return: -35.70304489135742, Policy CLIP loss: -0.04643993452191353, Entropy Loss: -0.6656945943832397 Critic Loss: 231.14874267578125
+Iteration: 122, Avg Return: -18.752826690673828, Policy CLIP loss: -0.03023209050297737, Entropy Loss: -0.6656466722488403 Critic Loss: 273.6960144042969
+Iteration: 123, Avg Return: -13.779882431030273, Policy CLIP loss: 0.02448817901313305, Entropy Loss: -0.6631724834442139 Critic Loss: 198.41075134277344
+Iteration: 124, Avg Return: -13.421758651733398, Policy CLIP loss: 0.009598609991371632, Entropy Loss: -0.6702623963356018 Critic Loss: 162.26675415039062
+Iteration: 125, Avg Return: -26.349058151245117, Policy CLIP loss: -0.049637243151664734, Entropy Loss: -0.6696368455886841 Critic Loss: 301.020751953125
+Iteration: 126, Avg Return: -16.728635787963867, Policy CLIP loss: -0.03293823078274727, Entropy Loss: -0.6707888841629028 Critic Loss: 191.19068908691406
+Iteration: 127, Avg Return: -36.15073013305664, Policy CLIP loss: -0.0539792962372303, Entropy Loss: -0.6641920208930969 Critic Loss: 372.4770202636719
+Iteration: 128, Avg Return: -37.334659576416016, Policy CLIP loss: -0.051368530839681625, Entropy Loss: -0.6627289056777954 Critic Loss: 346.7441711425781
+Iteration: 129, Avg Return: -32.65234375, Policy CLIP loss: -0.047075241804122925, Entropy Loss: -0.6557970643043518 Critic Loss: 333.0931396484375
+Iteration: 130, Avg Return: -13.324485778808594, Policy CLIP loss: 0.005574589595198631, Entropy Loss: -0.6582368612289429 Critic Loss: 242.43711853027344
+Iteration: 131, Avg Return: -17.38170623779297, Policy CLIP loss: -0.044088926166296005, Entropy Loss: -0.6603112816810608 Critic Loss: 228.39308166503906
+Iteration: 132, Avg Return: -19.42866325378418, Policy CLIP loss: -0.027258584275841713, Entropy Loss: -0.663563072681427 Critic Loss: 223.8543243408203
+Iteration: 133, Avg Return: -14.25156021118164, Policy CLIP loss: -0.03920552879571915, Entropy Loss: -0.6621214151382446 Critic Loss: 140.82118225097656
+Iteration: 134, Avg Return: -24.973485946655273, Policy CLIP loss: -0.04134209081530571, Entropy Loss: -0.6612180471420288 Critic Loss: 307.67864990234375
+Iteration: 135, Avg Return: -41.16887664794922, Policy CLIP loss: -0.05752271041274071, Entropy Loss: -0.6606631278991699 Critic Loss: 533.1615600585938
+Iteration: 136, Avg Return: -16.378131866455078, Policy CLIP loss: -0.0611194372177124, Entropy Loss: -0.6656114459037781 Critic Loss: 186.5806427001953
+Iteration: 137, Avg Return: -12.310046195983887, Policy CLIP loss: 0.01582011952996254, Entropy Loss: -0.6618350148200989 Critic Loss: 114.31893920898438
+Iteration: 138, Avg Return: -19.95440673828125, Policy CLIP loss: -0.04364490509033203, Entropy Loss: -0.6633695363998413 Critic Loss: 232.1898956298828
+Iteration: 139, Avg Return: -12.40284538269043, Policy CLIP loss: -0.029718389734625816, Entropy Loss: -0.6632933616638184 Critic Loss: 75.63497924804688
+Iteration: 140, Avg Return: -16.023670196533203, Policy CLIP loss: -0.03304700553417206, Entropy Loss: -0.6658101081848145 Critic Loss: 160.95799255371094
+Iteration: 141, Avg Return: -17.34327507019043, Policy CLIP loss: -0.02940439246594906, Entropy Loss: -0.6650168895721436 Critic Loss: 205.51577758789062
+Iteration: 142, Avg Return: -12.613127708435059, Policy CLIP loss: -0.0412762351334095, Entropy Loss: -0.6632049083709717 Critic Loss: 73.45684051513672
+Iteration: 143, Avg Return: -41.981117248535156, Policy CLIP loss: -0.0616028867661953, Entropy Loss: -0.6644583344459534 Critic Loss: 808.569580078125
+Iteration: 144, Avg Return: -11.906245231628418, Policy CLIP loss: -0.03103046678006649, Entropy Loss: -0.6674796938896179 Critic Loss: 49.28029251098633
+Iteration: 145, Avg Return: -11.015922546386719, Policy CLIP loss: -0.04998845234513283, Entropy Loss: -0.6678970456123352 Critic Loss: 15.93526554107666
+Iteration: 146, Avg Return: -11.505327224731445, Policy CLIP loss: -0.032409071922302246, Entropy Loss: -0.6652022004127502 Critic Loss: 34.873104095458984
+Iteration: 147, Avg Return: -33.543701171875, Policy CLIP loss: -0.05841138958930969, Entropy Loss: -0.6664134860038757 Critic Loss: 761.457275390625
+Iteration: 148, Avg Return: -29.621810913085938, Policy CLIP loss: -0.042781926691532135, Entropy Loss: -0.6672676205635071 Critic Loss: 506.2560119628906
+Iteration: 149, Avg Return: -26.320077896118164, Policy CLIP loss: -0.04318975284695625, Entropy Loss: -0.660804033279419 Critic Loss: 359.2178955078125
+Iteration: 150, Avg Return: -25.314922332763672, Policy CLIP loss: -0.05496622249484062, Entropy Loss: -0.6599578261375427 Critic Loss: 282.91265869140625
+Iteration: 151, Avg Return: -15.250611305236816, Policy CLIP loss: -0.0354008711874485, Entropy Loss: -0.6631211638450623 Critic Loss: 142.03775024414062
+Iteration: 152, Avg Return: -25.714275360107422, Policy CLIP loss: -0.05489320307970047, Entropy Loss: -0.6618734002113342 Critic Loss: 317.0671691894531
+Iteration: 153, Avg Return: -13.723764419555664, Policy CLIP loss: -0.033541373908519745, Entropy Loss: -0.6598135232925415 Critic Loss: 104.45249938964844
+Iteration: 154, Avg Return: -30.910940170288086, Policy CLIP loss: -0.05463352054357529, Entropy Loss: -0.6635240912437439 Critic Loss: 407.0037536621094
+Iteration: 155, Avg Return: -38.34298324584961, Policy CLIP loss: -0.04974089190363884, Entropy Loss: -0.658498227596283 Critic Loss: 615.4032592773438
+Iteration: 156, Avg Return: -38.59352111816406, Policy CLIP loss: -0.064696304500103, Entropy Loss: -0.6605812311172485 Critic Loss: 529.7609252929688
+Iteration: 157, Avg Return: -13.652722358703613, Policy CLIP loss: -0.041075654327869415, Entropy Loss: -0.6606813073158264 Critic Loss: 123.55703735351562
+Iteration: 158, Avg Return: -12.095908164978027, Policy CLIP loss: -0.0025022076442837715, Entropy Loss: -0.662137508392334 Critic Loss: 75.81015014648438
+Iteration: 159, Avg Return: -44.385772705078125, Policy CLIP loss: -0.046111926436424255, Entropy Loss: -0.6618926525115967 Critic Loss: 705.3052978515625
+Iteration: 160, Avg Return: -35.36811828613281, Policy CLIP loss: -0.06116584315896034, Entropy Loss: -0.6616360545158386 Critic Loss: 437.2435607910156
+Iteration: 161, Avg Return: -18.44010353088379, Policy CLIP loss: -0.01958003081381321, Entropy Loss: -0.6624259948730469 Critic Loss: 205.53619384765625
+Iteration: 162, Avg Return: -24.796092987060547, Policy CLIP loss: -0.04840133711695671, Entropy Loss: -0.6640311479568481 Critic Loss: 313.4521484375
+Iteration: 163, Avg Return: -12.093025207519531, Policy CLIP loss: -0.013438565656542778, Entropy Loss: -0.6620897054672241 Critic Loss: 100.37799835205078
+Iteration: 164, Avg Return: -14.496115684509277, Policy CLIP loss: -0.04878884181380272, Entropy Loss: -0.6642928123474121 Critic Loss: 121.97644805908203
+Iteration: 165, Avg Return: -35.94340133666992, Policy CLIP loss: -0.06953798234462738, Entropy Loss: -0.6619767546653748 Critic Loss: 552.9764404296875
+Iteration: 166, Avg Return: -30.640220642089844, Policy CLIP loss: -0.05859110876917839, Entropy Loss: -0.6694122552871704 Critic Loss: 345.00421142578125
+Iteration: 167, Avg Return: -12.051137924194336, Policy CLIP loss: -0.041856564581394196, Entropy Loss: -0.6594981551170349 Critic Loss: 96.62200927734375
+Iteration: 168, Avg Return: -14.559731483459473, Policy CLIP loss: -0.046691007912158966, Entropy Loss: -0.6651278734207153 Critic Loss: 122.73762512207031
+Iteration: 169, Avg Return: -15.100066184997559, Policy CLIP loss: -0.03125998377799988, Entropy Loss: -0.6645448207855225 Critic Loss: 125.01850891113281
+Iteration: 170, Avg Return: -15.512958526611328, Policy CLIP loss: -0.027133915573358536, Entropy Loss: -0.6645297408103943 Critic Loss: 137.9647216796875
+Iteration: 171, Avg Return: -11.196939468383789, Policy CLIP loss: -0.009697499684989452, Entropy Loss: -0.6697054505348206 Critic Loss: 17.972978591918945
+Iteration: 172, Avg Return: -11.632279396057129, Policy CLIP loss: -0.03079891763627529, Entropy Loss: -0.6691141724586487 Critic Loss: 34.49115753173828
+Iteration: 173, Avg Return: -10.477002143859863, Policy CLIP loss: -0.030106641352176666, Entropy Loss: -0.671291708946228 Critic Loss: 1.9015042781829834
+Iteration: 174, Avg Return: -10.9208402633667, Policy CLIP loss: -0.029594292864203453, Entropy Loss: -0.6639816164970398 Critic Loss: 31.40922737121582
+Iteration: 175, Avg Return: -38.41926193237305, Policy CLIP loss: -0.06667542457580566, Entropy Loss: -0.6655498743057251 Critic Loss: 999.0490112304688
+Iteration: 176, Avg Return: -19.60265350341797, Policy CLIP loss: -0.03686470165848732, Entropy Loss: -0.6665666103363037 Critic Loss: 354.59185791015625
+Iteration: 177, Avg Return: -35.88092803955078, Policy CLIP loss: -0.05257277563214302, Entropy Loss: -0.6656114459037781 Critic Loss: 775.33154296875
+Iteration: 178, Avg Return: -15.311407089233398, Policy CLIP loss: -0.03675973415374756, Entropy Loss: -0.6654272675514221 Critic Loss: 164.9365692138672
+Iteration: 179, Avg Return: -28.378732681274414, Policy CLIP loss: -0.08096355199813843, Entropy Loss: -0.6645777821540833 Critic Loss: 513.1156616210938
+Iteration: 180, Avg Return: -11.131364822387695, Policy CLIP loss: -0.02636026404798031, Entropy Loss: -0.6643771529197693 Critic Loss: 34.88164520263672
+Iteration: 181, Avg Return: -36.627723693847656, Policy CLIP loss: -0.0767279714345932, Entropy Loss: -0.6675066947937012 Critic Loss: 699.6724243164062
+Iteration: 182, Avg Return: -39.53446578979492, Policy CLIP loss: -0.07373593747615814, Entropy Loss: -0.668658435344696 Critic Loss: 634.4221801757812
+Iteration: 183, Avg Return: -11.552484512329102, Policy CLIP loss: -0.04522323235869408, Entropy Loss: -0.6684914231300354 Critic Loss: 55.594512939453125
+Iteration: 184, Avg Return: -38.50177764892578, Policy CLIP loss: -0.026354050263762474, Entropy Loss: -0.6677899956703186 Critic Loss: 665.8218994140625
+Iteration: 185, Avg Return: -12.459075927734375, Policy CLIP loss: -0.031662531197071075, Entropy Loss: -0.673942506313324 Critic Loss: 74.77725219726562
+Iteration: 186, Avg Return: -35.47755432128906, Policy CLIP loss: -0.04904581978917122, Entropy Loss: -0.6694186329841614 Critic Loss: 503.92559814453125
+Iteration: 187, Avg Return: -31.888486862182617, Policy CLIP loss: -0.07013514637947083, Entropy Loss: -0.6716861128807068 Critic Loss: 374.3056640625
+Iteration: 188, Avg Return: -14.250082969665527, Policy CLIP loss: -0.020317180082201958, Entropy Loss: -0.6693671345710754 Critic Loss: 127.06527709960938
+Iteration: 189, Avg Return: -12.694048881530762, Policy CLIP loss: -0.0305288415402174, Entropy Loss: -0.6703014373779297 Critic Loss: 79.82669067382812
+Iteration: 190, Avg Return: -12.450700759887695, Policy CLIP loss: -0.028695106506347656, Entropy Loss: -0.6692830920219421 Critic Loss: 62.998924255371094
+Iteration: 191, Avg Return: -30.275209426879883, Policy CLIP loss: -0.03132582828402519, Entropy Loss: -0.6709818840026855 Critic Loss: 424.3715515136719
+Iteration: 192, Avg Return: -26.90814781188965, Policy CLIP loss: -0.05251513421535492, Entropy Loss: -0.67168790102005 Critic Loss: 347.374755859375
+Iteration: 193, Avg Return: -21.098522186279297, Policy CLIP loss: -0.03892439603805542, Entropy Loss: -0.6675436496734619 Critic Loss: 268.1261901855469
+Iteration: 194, Avg Return: -13.436600685119629, Policy CLIP loss: -0.013509145006537437, Entropy Loss: -0.6675595045089722 Critic Loss: 110.7787857055664
+Iteration: 195, Avg Return: -36.92558670043945, Policy CLIP loss: -0.05409109964966774, Entropy Loss: -0.6674975752830505 Critic Loss: 549.8255615234375
+Iteration: 196, Avg Return: -24.712890625, Policy CLIP loss: -0.053481634706258774, Entropy Loss: -0.6678972840309143 Critic Loss: 312.8368225097656
+Iteration: 197, Avg Return: -36.613304138183594, Policy CLIP loss: -0.035779498517513275, Entropy Loss: -0.6687853932380676 Critic Loss: 375.6361389160156
+Iteration: 198, Avg Return: -14.143150329589844, Policy CLIP loss: -0.042156513780355453, Entropy Loss: -0.670854389667511 Critic Loss: 168.10980224609375
+Iteration: 199, Avg Return: -12.563714981079102, Policy CLIP loss: -0.03573805093765259, Entropy Loss: -0.6730298399925232 Critic Loss: 124.37480163574219
+Iteration: 200, Avg Return: -31.547508239746094, Policy CLIP loss: -0.0381992906332016, Entropy Loss: -0.6733752489089966 Critic Loss: 298.7461853027344
+Iteration: 201, Avg Return: -12.317222595214844, Policy CLIP loss: -0.0013320231810212135, Entropy Loss: -0.6745267510414124 Critic Loss: 117.00475311279297
+Iteration: 202, Avg Return: -12.229192733764648, Policy CLIP loss: 0.01725403033196926, Entropy Loss: -0.6748330593109131 Critic Loss: 92.19099426269531
+Iteration: 203, Avg Return: -13.589156150817871, Policy CLIP loss: -0.028845708817243576, Entropy Loss: -0.6761643290519714 Critic Loss: 99.1777114868164
+Iteration: 204, Avg Return: -29.17473602294922, Policy CLIP loss: -0.06643134355545044, Entropy Loss: -0.6762076020240784 Critic Loss: 442.91644287109375
+Iteration: 205, Avg Return: -11.642311096191406, Policy CLIP loss: 0.015530159696936607, Entropy Loss: -0.6762621998786926 Critic Loss: 57.8193359375
+Iteration: 206, Avg Return: -45.776023864746094, Policy CLIP loss: -0.055453844368457794, Entropy Loss: -0.6727670431137085 Critic Loss: 821.4285888671875
+Iteration: 207, Avg Return: -34.77874755859375, Policy CLIP loss: -0.0479983426630497, Entropy Loss: -0.6717971563339233 Critic Loss: 473.3236083984375
+Iteration: 208, Avg Return: -25.95549774169922, Policy CLIP loss: -0.011174545623362064, Entropy Loss: -0.6713564395904541 Critic Loss: 223.45947265625
+Iteration: 209, Avg Return: -12.074256896972656, Policy CLIP loss: 0.004379070829600096, Entropy Loss: -0.6730829477310181 Critic Loss: 110.96195220947266
+Iteration: 210, Avg Return: -36.59598159790039, Policy CLIP loss: -0.047450870275497437, Entropy Loss: -0.6728588938713074 Critic Loss: 394.0182800292969
+Iteration: 211, Avg Return: -36.925025939941406, Policy CLIP loss: -0.06182178482413292, Entropy Loss: -0.6722270846366882 Critic Loss: 375.3357849121094
+Iteration: 212, Avg Return: -26.02861785888672, Policy CLIP loss: -0.05283033475279808, Entropy Loss: -0.6718415021896362 Critic Loss: 303.67138671875
+Iteration: 213, Avg Return: -31.084623336791992, Policy CLIP loss: -0.02991628088057041, Entropy Loss: -0.6710097789764404 Critic Loss: 322.0216979980469
+Iteration: 214, Avg Return: -15.639091491699219, Policy CLIP loss: -0.045411013066768646, Entropy Loss: -0.673878014087677 Critic Loss: 255.47047424316406
+Iteration: 215, Avg Return: -26.803003311157227, Policy CLIP loss: -0.06557121127843857, Entropy Loss: -0.6746655106544495 Critic Loss: 290.5505676269531
+Iteration: 216, Avg Return: -17.049291610717773, Policy CLIP loss: -0.06948039680719376, Entropy Loss: -0.6769366264343262 Critic Loss: 204.99571228027344
+Iteration: 217, Avg Return: -26.287378311157227, Policy CLIP loss: -0.043135594576597214, Entropy Loss: -0.6781846880912781 Critic Loss: 216.64840698242188
+Iteration: 218, Avg Return: -26.967092514038086, Policy CLIP loss: -0.040118418633937836, Entropy Loss: -0.6734493374824524 Critic Loss: 307.46636962890625
+Iteration: 219, Avg Return: -42.489341735839844, Policy CLIP loss: -0.03407391905784607, Entropy Loss: -0.6729701161384583 Critic Loss: 394.77294921875
+Iteration: 220, Avg Return: -13.255781173706055, Policy CLIP loss: -0.013876345008611679, Entropy Loss: -0.6746633648872375 Critic Loss: 247.11070251464844
+Iteration: 221, Avg Return: -37.56950378417969, Policy CLIP loss: -0.065443255007267, Entropy Loss: -0.6769804954528809 Critic Loss: 262.5490417480469
+Iteration: 222, Avg Return: -13.406547546386719, Policy CLIP loss: -0.0035609197802841663, Entropy Loss: -0.674896240234375 Critic Loss: 254.5281219482422
+Iteration: 223, Avg Return: -41.91172790527344, Policy CLIP loss: -0.0601334348320961, Entropy Loss: -0.6718901991844177 Critic Loss: 289.4263610839844
+Iteration: 224, Avg Return: -31.709184646606445, Policy CLIP loss: -0.054100509732961655, Entropy Loss: -0.672598659992218 Critic Loss: 212.68589782714844
+Iteration: 225, Avg Return: -30.981550216674805, Policy CLIP loss: -0.04640109837055206, Entropy Loss: -0.6699978113174438 Critic Loss: 223.34962463378906
+Iteration: 226, Avg Return: -36.874542236328125, Policy CLIP loss: -0.044001683592796326, Entropy Loss: -0.6708178520202637 Critic Loss: 217.86724853515625
+Iteration: 227, Avg Return: -15.659134864807129, Policy CLIP loss: -0.03760627284646034, Entropy Loss: -0.6715678572654724 Critic Loss: 356.3030090332031
+Iteration: 228, Avg Return: -39.97077560424805, Policy CLIP loss: -0.05525774136185646, Entropy Loss: -0.6695970296859741 Critic Loss: 224.37445068359375
+Iteration: 229, Avg Return: -23.682106018066406, Policy CLIP loss: -0.03673645481467247, Entropy Loss: -0.6682472825050354 Critic Loss: 318.8865051269531
+Iteration: 230, Avg Return: -18.82311248779297, Policy CLIP loss: -0.032271333038806915, Entropy Loss: -0.6709468364715576 Critic Loss: 305.5540466308594
+Iteration: 231, Avg Return: -38.0896110534668, Policy CLIP loss: -0.06605856865644455, Entropy Loss: -0.6701698899269104 Critic Loss: 297.28656005859375
+Iteration: 232, Avg Return: -34.381919860839844, Policy CLIP loss: -0.038763679563999176, Entropy Loss: -0.6730175018310547 Critic Loss: 249.8305206298828
+Iteration: 233, Avg Return: -49.1663932800293, Policy CLIP loss: -0.042131222784519196, Entropy Loss: -0.6700302362442017 Critic Loss: 252.63119506835938
+Iteration: 234, Avg Return: -39.682029724121094, Policy CLIP loss: -0.06057073548436165, Entropy Loss: -0.6704257130622864 Critic Loss: 183.03819274902344
+Iteration: 235, Avg Return: -33.45069885253906, Policy CLIP loss: -0.05998355895280838, Entropy Loss: -0.6690463423728943 Critic Loss: 260.3548583984375
+Iteration: 236, Avg Return: -31.234819412231445, Policy CLIP loss: -0.03699009120464325, Entropy Loss: -0.667555570602417 Critic Loss: 219.32484436035156
+Iteration: 237, Avg Return: -27.71737289428711, Policy CLIP loss: -0.048180773854255676, Entropy Loss: -0.6704150438308716 Critic Loss: 216.47999572753906
+Iteration: 238, Avg Return: -28.04778289794922, Policy CLIP loss: -0.048597950488328934, Entropy Loss: -0.6712139248847961 Critic Loss: 187.2407684326172
+Iteration: 239, Avg Return: -22.53234100341797, Policy CLIP loss: -0.05119514837861061, Entropy Loss: -0.6702381372451782 Critic Loss: 275.44110107421875
+Iteration: 240, Avg Return: -13.322043418884277, Policy CLIP loss: -0.002377278869971633, Entropy Loss: -0.6730348467826843 Critic Loss: 200.45272827148438
+Iteration: 241, Avg Return: -34.2367057800293, Policy CLIP loss: -0.06854826211929321, Entropy Loss: -0.6701042652130127 Critic Loss: 361.5645446777344
+Iteration: 242, Avg Return: -43.84043884277344, Policy CLIP loss: -0.07154186069965363, Entropy Loss: -0.6669794321060181 Critic Loss: 418.92901611328125
+Iteration: 243, Avg Return: -27.756980895996094, Policy CLIP loss: -0.06752662360668182, Entropy Loss: -0.6694557666778564 Critic Loss: 234.98399353027344
+Iteration: 244, Avg Return: -37.58329772949219, Policy CLIP loss: -0.05708684027194977, Entropy Loss: -0.6680583357810974 Critic Loss: 336.7510986328125
+Iteration: 245, Avg Return: -26.631851196289062, Policy CLIP loss: -0.04129559546709061, Entropy Loss: -0.6707829833030701 Critic Loss: 198.26988220214844
+Iteration: 246, Avg Return: -45.439273834228516, Policy CLIP loss: -0.06968794763088226, Entropy Loss: -0.6700218915939331 Critic Loss: 383.0762939453125
+Iteration: 247, Avg Return: -13.358715057373047, Policy CLIP loss: 0.00973435491323471, Entropy Loss: -0.6708626747131348 Critic Loss: 257.0710144042969
+Iteration: 248, Avg Return: -32.321327209472656, Policy CLIP loss: -0.05437091737985611, Entropy Loss: -0.6717066168785095 Critic Loss: 310.76898193359375
+Iteration: 249, Avg Return: -35.9286994934082, Policy CLIP loss: -0.07374050468206406, Entropy Loss: -0.6727719902992249 Critic Loss: 296.54541015625
+Iteration: 250, Avg Return: -29.62413787841797, Policy CLIP loss: -0.04622407257556915, Entropy Loss: -0.6710398197174072 Critic Loss: 242.32464599609375
+Iteration: 251, Avg Return: -14.489428520202637, Policy CLIP loss: -0.03036608174443245, Entropy Loss: -0.6690592169761658 Critic Loss: 271.6710510253906
+Iteration: 252, Avg Return: -38.46833419799805, Policy CLIP loss: -0.04192403331398964, Entropy Loss: -0.6705998778343201 Critic Loss: 265.05511474609375
+Iteration: 253, Avg Return: -26.588350296020508, Policy CLIP loss: -0.07309533655643463, Entropy Loss: -0.6728794574737549 Critic Loss: 223.05047607421875
+Iteration: 254, Avg Return: -25.71599578857422, Policy CLIP loss: -0.05864701420068741, Entropy Loss: -0.6702646017074585 Critic Loss: 215.19862365722656
+Iteration: 255, Avg Return: -34.27571105957031, Policy CLIP loss: -0.03531670942902565, Entropy Loss: -0.6690581440925598 Critic Loss: 257.766845703125
+Iteration: 256, Avg Return: -13.040759086608887, Policy CLIP loss: -0.010906169191002846, Entropy Loss: -0.6712685227394104 Critic Loss: 204.4081268310547
+Iteration: 257, Avg Return: -29.541990280151367, Policy CLIP loss: -0.043784402310848236, Entropy Loss: -0.6724802255630493 Critic Loss: 237.8939208984375
+Iteration: 258, Avg Return: -16.179920196533203, Policy CLIP loss: -0.02742472104728222, Entropy Loss: -0.6758079528808594 Critic Loss: 223.4159698486328
+Iteration: 259, Avg Return: -15.342804908752441, Policy CLIP loss: -0.027227912098169327, Entropy Loss: -0.6739187836647034 Critic Loss: 191.4221649169922
+Iteration: 260, Avg Return: -15.070544242858887, Policy CLIP loss: -0.04156007617712021, Entropy Loss: -0.6746716499328613 Critic Loss: 162.5694122314453
+Iteration: 261, Avg Return: -36.6285285949707, Policy CLIP loss: -0.0521521121263504, Entropy Loss: -0.6731036305427551 Critic Loss: 444.1527404785156
+Iteration: 262, Avg Return: -50.0, Policy CLIP loss: -0.09506471455097198, Entropy Loss: -0.6712592244148254 Critic Loss: 664.501220703125
+Iteration: 263, Avg Return: -41.338890075683594, Policy CLIP loss: -0.08514656871557236, Entropy Loss: -0.6711941361427307 Critic Loss: 389.4902648925781
+Iteration: 264, Avg Return: -12.816481590270996, Policy CLIP loss: -0.020506180822849274, Entropy Loss: -0.6736924648284912 Critic Loss: 193.44334411621094
+Iteration: 265, Avg Return: -12.839173316955566, Policy CLIP loss: 0.014666803181171417, Entropy Loss: -0.6726547479629517 Critic Loss: 166.3536376953125
+Iteration: 266, Avg Return: -15.812755584716797, Policy CLIP loss: -0.04416348785161972, Entropy Loss: -0.6746898889541626 Critic Loss: 172.01394653320312
+Iteration: 267, Avg Return: -31.03902816772461, Policy CLIP loss: -0.07660447806119919, Entropy Loss: -0.6765910983085632 Critic Loss: 383.462158203125
+Iteration: 268, Avg Return: -28.178373336791992, Policy CLIP loss: -0.030566737055778503, Entropy Loss: -0.6728168725967407 Critic Loss: 338.9171447753906
+Iteration: 269, Avg Return: -40.721065521240234, Policy CLIP loss: -0.0589720644056797, Entropy Loss: -0.6754379868507385 Critic Loss: 444.3834533691406
+Iteration: 270, Avg Return: -48.139923095703125, Policy CLIP loss: -0.05226743593811989, Entropy Loss: -0.6782667636871338 Critic Loss: 443.04949951171875
+Iteration: 271, Avg Return: -26.092750549316406, Policy CLIP loss: -0.030312765389680862, Entropy Loss: -0.6809992790222168 Critic Loss: 235.57318115234375
+Iteration: 272, Avg Return: -49.8317756652832, Policy CLIP loss: -0.05301551893353462, Entropy Loss: -0.6822426319122314 Critic Loss: 448.8677062988281
+Iteration: 273, Avg Return: -39.161537170410156, Policy CLIP loss: -0.059942711144685745, Entropy Loss: -0.6834129095077515 Critic Loss: 315.583251953125
+Iteration: 274, Avg Return: -40.245853424072266, Policy CLIP loss: -0.08775243163108826, Entropy Loss: -0.6840762495994568 Critic Loss: 218.58035278320312
+Iteration: 275, Avg Return: -49.59952163696289, Policy CLIP loss: -0.06122236326336861, Entropy Loss: -0.6807814240455627 Critic Loss: 242.93984985351562
+Iteration: 276, Avg Return: -48.52694320678711, Policy CLIP loss: -0.05900833010673523, Entropy Loss: -0.680532693862915 Critic Loss: 163.28758239746094
+Iteration: 277, Avg Return: -32.050716400146484, Policy CLIP loss: -0.026529012247920036, Entropy Loss: -0.6810234785079956 Critic Loss: 249.89207458496094
+Iteration: 278, Avg Return: -49.6884765625, Policy CLIP loss: -0.07868602871894836, Entropy Loss: -0.6798737049102783 Critic Loss: 150.4958038330078
+Iteration: 279, Avg Return: -42.793212890625, Policy CLIP loss: -0.05649814009666443, Entropy Loss: -0.6781749129295349 Critic Loss: 115.89665222167969
+Iteration: 280, Avg Return: -50.0, Policy CLIP loss: -0.07911093533039093, Entropy Loss: -0.6745717525482178 Critic Loss: 71.28931427001953
+Iteration: 281, Avg Return: -36.0540657043457, Policy CLIP loss: -0.06768076121807098, Entropy Loss: -0.6743409037590027 Critic Loss: 256.0587463378906
+Iteration: 282, Avg Return: -18.93806266784668, Policy CLIP loss: -0.03520916402339935, Entropy Loss: -0.674266517162323 Critic Loss: 614.603271484375
+Iteration: 283, Avg Return: -39.09125518798828, Policy CLIP loss: -0.05298823490738869, Entropy Loss: -0.6740678548812866 Critic Loss: 174.7007293701172
+Iteration: 284, Avg Return: -45.849605560302734, Policy CLIP loss: -0.05480911210179329, Entropy Loss: -0.6739774942398071 Critic Loss: 109.94081115722656
+Iteration: 285, Avg Return: -23.904247283935547, Policy CLIP loss: -0.0483320988714695, Entropy Loss: -0.6747474074363708 Critic Loss: 446.78509521484375
+Iteration: 286, Avg Return: -35.0653190612793, Policy CLIP loss: -0.06625591218471527, Entropy Loss: -0.6747720241546631 Critic Loss: 215.21580505371094
+Iteration: 287, Avg Return: -38.94429016113281, Policy CLIP loss: -0.06596573442220688, Entropy Loss: -0.6748674511909485 Critic Loss: 218.6621551513672
+Iteration: 288, Avg Return: -33.14405822753906, Policy CLIP loss: -0.039358481764793396, Entropy Loss: -0.6753249168395996 Critic Loss: 265.2898254394531
+Iteration: 289, Avg Return: -39.8640251159668, Policy CLIP loss: -0.047827351838350296, Entropy Loss: -0.6755106449127197 Critic Loss: 193.9760284423828
+Iteration: 290, Avg Return: -46.08503723144531, Policy CLIP loss: -0.07312464714050293, Entropy Loss: -0.6739256978034973 Critic Loss: 140.95419311523438
+Iteration: 291, Avg Return: -48.891353607177734, Policy CLIP loss: -0.10137458890676498, Entropy Loss: -0.6730546355247498 Critic Loss: 89.78126525878906
+Iteration: 292, Avg Return: -16.990337371826172, Policy CLIP loss: -0.04351388290524483, Entropy Loss: -0.6761979460716248 Critic Loss: 651.0313720703125
+Iteration: 293, Avg Return: -44.91468811035156, Policy CLIP loss: -0.048077069222927094, Entropy Loss: -0.675718367099762 Critic Loss: 88.68514251708984
+Iteration: 294, Avg Return: -18.69080352783203, Policy CLIP loss: -0.005967331118881702, Entropy Loss: -0.6792347431182861 Critic Loss: 630.6190795898438
+Iteration: 295, Avg Return: -28.129953384399414, Policy CLIP loss: -0.04353940114378929, Entropy Loss: -0.6820371150970459 Critic Loss: 387.55499267578125
+Iteration: 296, Avg Return: -43.6302604675293, Policy CLIP loss: -0.06246575713157654, Entropy Loss: -0.6794062256813049 Critic Loss: 136.47946166992188
+Iteration: 297, Avg Return: -28.733356475830078, Policy CLIP loss: -0.0593922883272171, Entropy Loss: -0.6799948811531067 Critic Loss: 263.8104553222656
+Iteration: 298, Avg Return: -16.543058395385742, Policy CLIP loss: -0.013646669685840607, Entropy Loss: -0.679331362247467 Critic Loss: 499.0823974609375
+Iteration: 299, Avg Return: -45.582645416259766, Policy CLIP loss: -0.0571928508579731, Entropy Loss: -0.6778202056884766 Critic Loss: 152.0270538330078
+Iteration: 300, Avg Return: -47.12885284423828, Policy CLIP loss: -0.048761967569589615, Entropy Loss: -0.6783171892166138 Critic Loss: 126.4702377319336
+Iteration: 301, Avg Return: -30.519737243652344, Policy CLIP loss: -0.05779426544904709, Entropy Loss: -0.678382396697998 Critic Loss: 338.57183837890625
+Iteration: 302, Avg Return: -34.4665641784668, Policy CLIP loss: -0.07190027087926865, Entropy Loss: -0.6788169741630554 Critic Loss: 185.966796875
+Iteration: 303, Avg Return: -44.47523498535156, Policy CLIP loss: -0.042995352298021317, Entropy Loss: -0.6774927377700806 Critic Loss: 156.14691162109375
+Iteration: 304, Avg Return: -15.189480781555176, Policy CLIP loss: -0.029991045594215393, Entropy Loss: -0.6784051656723022 Critic Loss: 503.981689453125
+Iteration: 305, Avg Return: -38.43623352050781, Policy CLIP loss: -0.08679273724555969, Entropy Loss: -0.6812196969985962 Critic Loss: 231.6312255859375
+Iteration: 306, Avg Return: -42.987945556640625, Policy CLIP loss: -0.0715034231543541, Entropy Loss: -0.6768071055412292 Critic Loss: 173.016357421875
+Iteration: 307, Avg Return: -46.754032135009766, Policy CLIP loss: -0.06000707298517227, Entropy Loss: -0.6765143871307373 Critic Loss: 81.04208374023438
+Iteration: 308, Avg Return: -33.495880126953125, Policy CLIP loss: -0.04275893047451973, Entropy Loss: -0.6782333254814148 Critic Loss: 310.53839111328125
+Iteration: 309, Avg Return: -21.79729461669922, Policy CLIP loss: -0.020580090582370758, Entropy Loss: -0.6770703792572021 Critic Loss: 498.97320556640625
+Iteration: 310, Avg Return: -34.82035827636719, Policy CLIP loss: -0.0690855011343956, Entropy Loss: -0.6779857873916626 Critic Loss: 260.0145263671875
+Iteration: 311, Avg Return: -39.480865478515625, Policy CLIP loss: -0.057181019335985184, Entropy Loss: -0.6731597781181335 Critic Loss: 171.4945068359375
+Iteration: 312, Avg Return: -45.402015686035156, Policy CLIP loss: -0.05446036905050278, Entropy Loss: -0.6714280843734741 Critic Loss: 132.9463348388672
+Iteration: 313, Avg Return: -39.827613830566406, Policy CLIP loss: -0.04835882782936096, Entropy Loss: -0.6709285974502563 Critic Loss: 197.98641967773438
+Iteration: 314, Avg Return: -16.14605712890625, Policy CLIP loss: -0.026970958337187767, Entropy Loss: -0.6749805212020874 Critic Loss: 643.3219604492188
+Iteration: 315, Avg Return: -33.82439422607422, Policy CLIP loss: -0.05656075477600098, Entropy Loss: -0.6710368394851685 Critic Loss: 204.30877685546875
+Iteration: 316, Avg Return: -28.078073501586914, Policy CLIP loss: -0.04197138920426369, Entropy Loss: -0.6726123094558716 Critic Loss: 252.4201202392578
+Iteration: 317, Avg Return: -17.713939666748047, Policy CLIP loss: -0.06405335664749146, Entropy Loss: -0.6752839088439941 Critic Loss: 384.8241271972656
+Iteration: 318, Avg Return: -42.54829406738281, Policy CLIP loss: -0.08395164459943771, Entropy Loss: -0.6718200445175171 Critic Loss: 240.83078002929688
+Iteration: 319, Avg Return: -27.30414581298828, Policy CLIP loss: -0.05155987665057182, Entropy Loss: -0.6719403266906738 Critic Loss: 322.5216979980469
+Iteration: 320, Avg Return: -34.570556640625, Policy CLIP loss: -0.06614170223474503, Entropy Loss: -0.6747621297836304 Critic Loss: 239.26397705078125
+Iteration: 321, Avg Return: -26.146581649780273, Policy CLIP loss: -0.02792707458138466, Entropy Loss: -0.6755393147468567 Critic Loss: 290.781005859375
+Iteration: 322, Avg Return: -14.009449005126953, Policy CLIP loss: 0.01773703284561634, Entropy Loss: -0.6816896200180054 Critic Loss: 335.0655212402344
+Iteration: 323, Avg Return: -17.71576690673828, Policy CLIP loss: -0.020535273477435112, Entropy Loss: -0.6790414452552795 Critic Loss: 292.09979248046875
+Iteration: 324, Avg Return: -39.13873291015625, Policy CLIP loss: -0.07612305134534836, Entropy Loss: -0.6778332591056824 Critic Loss: 325.5148620605469
+Iteration: 325, Avg Return: -45.424766540527344, Policy CLIP loss: -0.06603509187698364, Entropy Loss: -0.6753430962562561 Critic Loss: 327.05108642578125
+Iteration: 326, Avg Return: -33.910953521728516, Policy CLIP loss: -0.051020778715610504, Entropy Loss: -0.673866868019104 Critic Loss: 289.6824645996094
+Iteration: 327, Avg Return: -33.01411056518555, Policy CLIP loss: -0.04785875231027603, Entropy Loss: -0.6768792867660522 Critic Loss: 197.38009643554688
+Iteration: 328, Avg Return: -17.378950119018555, Policy CLIP loss: -0.015190706588327885, Entropy Loss: -0.6765027046203613 Critic Loss: 366.9781799316406
+Iteration: 329, Avg Return: -37.28126525878906, Policy CLIP loss: -0.020214753225445747, Entropy Loss: -0.675838828086853 Critic Loss: 217.39756774902344
+Iteration: 330, Avg Return: -47.294464111328125, Policy CLIP loss: -0.07673589885234833, Entropy Loss: -0.6764784455299377 Critic Loss: 218.53024291992188
+Iteration: 331, Avg Return: -34.84285354614258, Policy CLIP loss: -0.06722167134284973, Entropy Loss: -0.6776528358459473 Critic Loss: 265.52947998046875
+Iteration: 332, Avg Return: -42.89458465576172, Policy CLIP loss: -0.06329424679279327, Entropy Loss: -0.6788561940193176 Critic Loss: 173.3887176513672
+Iteration: 333, Avg Return: -35.43674087524414, Policy CLIP loss: -0.06178094819188118, Entropy Loss: -0.6772615909576416 Critic Loss: 214.0782470703125
+Iteration: 334, Avg Return: -14.624446868896484, Policy CLIP loss: -0.011487827636301517, Entropy Loss: -0.6821212768554688 Critic Loss: 428.7312927246094
+Iteration: 335, Avg Return: -24.60818099975586, Policy CLIP loss: -0.051919471472501755, Entropy Loss: -0.6760180592536926 Critic Loss: 289.6344909667969
+Iteration: 336, Avg Return: -14.753052711486816, Policy CLIP loss: -0.026544032618403435, Entropy Loss: -0.6752416491508484 Critic Loss: 299.78155517578125
+Iteration: 337, Avg Return: -31.674388885498047, Policy CLIP loss: -0.03221357986330986, Entropy Loss: -0.6749264597892761 Critic Loss: 293.9017639160156
+Iteration: 338, Avg Return: -26.440702438354492, Policy CLIP loss: -0.04186013713479042, Entropy Loss: -0.6763973236083984 Critic Loss: 235.4896697998047
+Iteration: 339, Avg Return: -41.72039031982422, Policy CLIP loss: -0.04674375429749489, Entropy Loss: -0.6735714673995972 Critic Loss: 281.7291564941406
+Iteration: 340, Avg Return: -15.036840438842773, Policy CLIP loss: -0.04249611869454384, Entropy Loss: -0.6785475015640259 Critic Loss: 274.2840576171875
+Iteration: 341, Avg Return: -37.428138732910156, Policy CLIP loss: -0.07344577461481094, Entropy Loss: -0.6752126216888428 Critic Loss: 280.2663879394531
+Iteration: 342, Avg Return: -40.1414909362793, Policy CLIP loss: -0.06083249673247337, Entropy Loss: -0.6717004179954529 Critic Loss: 238.57334899902344
+Iteration: 343, Avg Return: -45.72127914428711, Policy CLIP loss: -0.04999599605798721, Entropy Loss: -0.6723929047584534 Critic Loss: 263.2102966308594
+Iteration: 344, Avg Return: -26.747482299804688, Policy CLIP loss: -0.05194477736949921, Entropy Loss: -0.6775234937667847 Critic Loss: 317.0391540527344
+Iteration: 345, Avg Return: -27.68747329711914, Policy CLIP loss: -0.04322371631860733, Entropy Loss: -0.676517128944397 Critic Loss: 209.7303009033203
+Iteration: 346, Avg Return: -38.426979064941406, Policy CLIP loss: -0.0678413137793541, Entropy Loss: -0.672985315322876 Critic Loss: 240.39564514160156
+Iteration: 347, Avg Return: -37.63984298706055, Policy CLIP loss: -0.06485418975353241, Entropy Loss: -0.6705983877182007 Critic Loss: 185.89418029785156
+Iteration: 348, Avg Return: -43.94747543334961, Policy CLIP loss: -0.06913384795188904, Entropy Loss: -0.6706192493438721 Critic Loss: 214.02940368652344
+Iteration: 349, Avg Return: -26.566011428833008, Policy CLIP loss: -0.04818398132920265, Entropy Loss: -0.6713553667068481 Critic Loss: 313.59405517578125
+Iteration: 350, Avg Return: -40.454246520996094, Policy CLIP loss: -0.043414779007434845, Entropy Loss: -0.6690524816513062 Critic Loss: 186.3907470703125
+Iteration: 351, Avg Return: -14.515063285827637, Policy CLIP loss: -0.005900809541344643, Entropy Loss: -0.6729156374931335 Critic Loss: 486.0675354003906
+Iteration: 352, Avg Return: -19.989768981933594, Policy CLIP loss: -0.024739403277635574, Entropy Loss: -0.6742457747459412 Critic Loss: 380.0086669921875
+Iteration: 353, Avg Return: -41.92265701293945, Policy CLIP loss: -0.11417936533689499, Entropy Loss: -0.6717683672904968 Critic Loss: 238.81207275390625
+Iteration: 354, Avg Return: -14.850956916809082, Policy CLIP loss: -0.026141304522752762, Entropy Loss: -0.6696041226387024 Critic Loss: 408.2449645996094
+Iteration: 355, Avg Return: -36.760189056396484, Policy CLIP loss: -0.07558728009462357, Entropy Loss: -0.6721199154853821 Critic Loss: 217.98377990722656
+Iteration: 356, Avg Return: -32.48098373413086, Policy CLIP loss: -0.04873097315430641, Entropy Loss: -0.6703054308891296 Critic Loss: 226.62632751464844
+Iteration: 357, Avg Return: -39.83991622924805, Policy CLIP loss: -0.030534623190760612, Entropy Loss: -0.6691316366195679 Critic Loss: 212.08445739746094
+Iteration: 358, Avg Return: -42.143795013427734, Policy CLIP loss: -0.06473494321107864, Entropy Loss: -0.6706811785697937 Critic Loss: 180.89309692382812
+Iteration: 359, Avg Return: -16.833772659301758, Policy CLIP loss: -0.03260943293571472, Entropy Loss: -0.6755155920982361 Critic Loss: 444.8758850097656
+Iteration: 360, Avg Return: -19.21161651611328, Policy CLIP loss: -0.03280951455235481, Entropy Loss: -0.6698195934295654 Critic Loss: 390.37274169921875
+Iteration: 361, Avg Return: -27.505380630493164, Policy CLIP loss: -0.04236128181219101, Entropy Loss: -0.6729158163070679 Critic Loss: 204.54898071289062
+Iteration: 362, Avg Return: -35.797603607177734, Policy CLIP loss: -0.08922649174928665, Entropy Loss: -0.6704937815666199 Critic Loss: 283.5338134765625
+Iteration: 363, Avg Return: -16.085063934326172, Policy CLIP loss: -0.031948234885931015, Entropy Loss: -0.6738542318344116 Critic Loss: 326.23028564453125
+Iteration: 364, Avg Return: -39.70915222167969, Policy CLIP loss: -0.03896184265613556, Entropy Loss: -0.6717808246612549 Critic Loss: 246.63194274902344
+Iteration: 365, Avg Return: -34.067604064941406, Policy CLIP loss: -0.043907951563596725, Entropy Loss: -0.6733566522598267 Critic Loss: 287.28436279296875
+Iteration: 366, Avg Return: -37.643489837646484, Policy CLIP loss: -0.0618765726685524, Entropy Loss: -0.6740812659263611 Critic Loss: 220.59030151367188
+Iteration: 367, Avg Return: -32.43882369995117, Policy CLIP loss: -0.06077485904097557, Entropy Loss: -0.6719904541969299 Critic Loss: 290.60638427734375
+Iteration: 368, Avg Return: -45.284725189208984, Policy CLIP loss: -0.0772693082690239, Entropy Loss: -0.6722943782806396 Critic Loss: 169.50038146972656
+Iteration: 369, Avg Return: -42.22818374633789, Policy CLIP loss: -0.06933993101119995, Entropy Loss: -0.6731373071670532 Critic Loss: 124.25499725341797
+Iteration: 370, Avg Return: -47.86579513549805, Policy CLIP loss: -0.06947482377290726, Entropy Loss: -0.6737141609191895 Critic Loss: 97.19198608398438
+Iteration: 371, Avg Return: -15.20907974243164, Policy CLIP loss: 0.017027880996465683, Entropy Loss: -0.6766341924667358 Critic Loss: 667.8410034179688
+Iteration: 372, Avg Return: -43.00761413574219, Policy CLIP loss: -0.04855945706367493, Entropy Loss: -0.6796323657035828 Critic Loss: 123.55117797851562
+Iteration: 373, Avg Return: -21.77764892578125, Policy CLIP loss: -0.02879192866384983, Entropy Loss: -0.6765946745872498 Critic Loss: 548.3192749023438
+Iteration: 374, Avg Return: -41.87126922607422, Policy CLIP loss: -0.06184012442827225, Entropy Loss: -0.6753787398338318 Critic Loss: 123.3078384399414
+Iteration: 375, Avg Return: -28.917430877685547, Policy CLIP loss: -0.02844509296119213, Entropy Loss: -0.677079975605011 Critic Loss: 401.7961120605469
+Iteration: 376, Avg Return: -20.981916427612305, Policy CLIP loss: -0.06252143532037735, Entropy Loss: -0.6794000267982483 Critic Loss: 503.2200927734375
+Iteration: 377, Avg Return: -48.984405517578125, Policy CLIP loss: -0.0740433782339096, Entropy Loss: -0.6760602593421936 Critic Loss: 123.97893524169922
+Iteration: 378, Avg Return: -28.512130737304688, Policy CLIP loss: -0.03447405621409416, Entropy Loss: -0.6766417622566223 Critic Loss: 364.5836181640625
+Iteration: 379, Avg Return: -14.918371200561523, Policy CLIP loss: 0.02839190885424614, Entropy Loss: -0.678007185459137 Critic Loss: 514.2120971679688
+Iteration: 380, Avg Return: -38.17982482910156, Policy CLIP loss: -0.06681077927350998, Entropy Loss: -0.6785062551498413 Critic Loss: 179.7195281982422
+Iteration: 381, Avg Return: -33.94280242919922, Policy CLIP loss: -0.05026710405945778, Entropy Loss: -0.6766667366027832 Critic Loss: 204.902099609375
+Iteration: 382, Avg Return: -16.12742042541504, Policy CLIP loss: -0.017105793580412865, Entropy Loss: -0.6765530109405518 Critic Loss: 417.30657958984375
+Iteration: 383, Avg Return: -19.803367614746094, Policy CLIP loss: -0.060518160462379456, Entropy Loss: -0.6767450571060181 Critic Loss: 337.310791015625
+Iteration: 384, Avg Return: -13.871133804321289, Policy CLIP loss: 0.025510812178254128, Entropy Loss: -0.6780791282653809 Critic Loss: 301.4036865234375
+Iteration: 385, Avg Return: -36.6352424621582, Policy CLIP loss: -0.06689051538705826, Entropy Loss: -0.6784736514091492 Critic Loss: 263.0578918457031
+Iteration: 386, Avg Return: -48.54690933227539, Policy CLIP loss: -0.0848805233836174, Entropy Loss: -0.6762107014656067 Critic Loss: 340.15728759765625
+Iteration: 387, Avg Return: -38.91398620605469, Policy CLIP loss: -0.06575348973274231, Entropy Loss: -0.6767086982727051 Critic Loss: 202.0800323486328
+Iteration: 388, Avg Return: -14.057817459106445, Policy CLIP loss: -0.00621439702808857, Entropy Loss: -0.6771562099456787 Critic Loss: 397.95953369140625
+Iteration: 389, Avg Return: -46.200592041015625, Policy CLIP loss: -0.0331105999648571, Entropy Loss: -0.6770461797714233 Critic Loss: 206.49420166015625
+Iteration: 390, Avg Return: -35.45194625854492, Policy CLIP loss: -0.0633736252784729, Entropy Loss: -0.6774488687515259 Critic Loss: 262.919189453125
+Iteration: 391, Avg Return: -49.25007247924805, Policy CLIP loss: -0.0927739143371582, Entropy Loss: -0.6761515736579895 Critic Loss: 158.12158203125
+Iteration: 392, Avg Return: -29.581222534179688, Policy CLIP loss: -0.06704216450452805, Entropy Loss: -0.6751507520675659 Critic Loss: 332.8858947753906
+Iteration: 393, Avg Return: -20.466066360473633, Policy CLIP loss: -0.011037297546863556, Entropy Loss: -0.6757201552391052 Critic Loss: 435.8937072753906
+Iteration: 394, Avg Return: -21.805147171020508, Policy CLIP loss: -0.03493504226207733, Entropy Loss: -0.6766597628593445 Critic Loss: 370.11871337890625
+Iteration: 395, Avg Return: -44.179439544677734, Policy CLIP loss: -0.04251854494214058, Entropy Loss: -0.6773182153701782 Critic Loss: 181.25460815429688
+Iteration: 396, Avg Return: -39.77529525756836, Policy CLIP loss: -0.07026530057191849, Entropy Loss: -0.6785016655921936 Critic Loss: 222.860107421875
+Iteration: 397, Avg Return: -27.099035263061523, Policy CLIP loss: -0.0668194591999054, Entropy Loss: -0.6794062256813049 Critic Loss: 293.64862060546875
+Iteration: 398, Avg Return: -45.12641525268555, Policy CLIP loss: -0.09565719962120056, Entropy Loss: -0.6769651174545288 Critic Loss: 171.75146484375
+Iteration: 399, Avg Return: -46.784889221191406, Policy CLIP loss: -0.0704876258969307, Entropy Loss: -0.6754382252693176 Critic Loss: 152.1280059814453
+Iteration: 400, Avg Return: -32.993370056152344, Policy CLIP loss: -0.06360843032598495, Entropy Loss: -0.6774138808250427 Critic Loss: 292.961669921875
+Iteration: 401, Avg Return: -14.88115119934082, Policy CLIP loss: -0.016160152852535248, Entropy Loss: -0.6779605746269226 Critic Loss: 505.5199890136719
+Iteration: 402, Avg Return: -46.70362854003906, Policy CLIP loss: -0.07088678330183029, Entropy Loss: -0.6770730018615723 Critic Loss: 158.64007568359375
+Iteration: 403, Avg Return: -42.995121002197266, Policy CLIP loss: -0.09637150168418884, Entropy Loss: -0.677415668964386 Critic Loss: 176.63836669921875
+Iteration: 404, Avg Return: -38.493350982666016, Policy CLIP loss: -0.06300470232963562, Entropy Loss: -0.6767426133155823 Critic Loss: 141.39410400390625
+Iteration: 405, Avg Return: -46.154693603515625, Policy CLIP loss: -0.07584795355796814, Entropy Loss: -0.6774196028709412 Critic Loss: 104.6190414428711
+Iteration: 406, Avg Return: -28.752525329589844, Policy CLIP loss: -0.04721555858850479, Entropy Loss: -0.6810076236724854 Critic Loss: 303.01153564453125
+Iteration: 407, Avg Return: -46.50123977661133, Policy CLIP loss: -0.07250207662582397, Entropy Loss: -0.6779162883758545 Critic Loss: 104.4635238647461
+Iteration: 408, Avg Return: -43.07632827758789, Policy CLIP loss: -0.07322017848491669, Entropy Loss: -0.6782385110855103 Critic Loss: 112.30197143554688
+Iteration: 409, Avg Return: -43.579036712646484, Policy CLIP loss: -0.06477737426757812, Entropy Loss: -0.6771087646484375 Critic Loss: 99.28679656982422
+Iteration: 410, Avg Return: -44.9149169921875, Policy CLIP loss: -0.05958458036184311, Entropy Loss: -0.6770035028457642 Critic Loss: 67.4646224975586
+Iteration: 411, Avg Return: -23.39861488342285, Policy CLIP loss: -0.03074791468679905, Entropy Loss: -0.6779870390892029 Critic Loss: 662.5048217773438
+Iteration: 412, Avg Return: -48.670265197753906, Policy CLIP loss: -0.07239556312561035, Entropy Loss: -0.6789447069168091 Critic Loss: 33.04643249511719
+Iteration: 413, Avg Return: -31.910398483276367, Policy CLIP loss: -0.08706668764352798, Entropy Loss: -0.6787702441215515 Critic Loss: 413.32763671875
+Iteration: 414, Avg Return: -39.3390007019043, Policy CLIP loss: -0.06948138773441315, Entropy Loss: -0.6794490218162537 Critic Loss: 205.85862731933594
+Iteration: 415, Avg Return: -26.0773868560791, Policy CLIP loss: -0.038736388087272644, Entropy Loss: -0.6825512647628784 Critic Loss: 451.3739013671875
+Iteration: 416, Avg Return: -15.353629112243652, Policy CLIP loss: 0.04081837087869644, Entropy Loss: -0.6835681796073914 Critic Loss: 570.8697509765625
+Iteration: 417, Avg Return: -46.123924255371094, Policy CLIP loss: -0.046777915209531784, Entropy Loss: -0.6852315664291382 Critic Loss: 134.4090118408203
+Iteration: 418, Avg Return: -45.73496627807617, Policy CLIP loss: -0.08552084118127823, Entropy Loss: -0.6840330362319946 Critic Loss: 131.9063720703125
+Iteration: 419, Avg Return: -44.703426361083984, Policy CLIP loss: -0.0400531142950058, Entropy Loss: -0.6827707886695862 Critic Loss: 120.50183868408203
+Iteration: 420, Avg Return: -47.887638092041016, Policy CLIP loss: -0.06790580600500107, Entropy Loss: -0.6815506219863892 Critic Loss: 52.78175735473633
+Iteration: 421, Avg Return: -30.143129348754883, Policy CLIP loss: -0.032902225852012634, Entropy Loss: -0.6801493763923645 Critic Loss: 423.17169189453125
+Iteration: 422, Avg Return: -40.58704376220703, Policy CLIP loss: -0.05902751907706261, Entropy Loss: -0.6803396344184875 Critic Loss: 128.43373107910156
+Iteration: 423, Avg Return: -47.345951080322266, Policy CLIP loss: -0.07761966437101364, Entropy Loss: -0.6798596382141113 Critic Loss: 72.860107421875
+Won the gameIteration: 424, Avg Return: -18.123767852783203, Policy CLIP loss: -0.009280881844460964, Entropy Loss: -0.6818501949310303 Critic Loss: 851.0853881835938
+Iteration: 425, Avg Return: -33.6299934387207, Policy CLIP loss: -0.05542614310979843, Entropy Loss: -0.6813136339187622 Critic Loss: 278.16015625
+Iteration: 426, Avg Return: -45.451419830322266, Policy CLIP loss: -0.13528721034526825, Entropy Loss: -0.6812080144882202 Critic Loss: 121.04337310791016
+Iteration: 427, Avg Return: -15.214871406555176, Policy CLIP loss: -0.0073709189891815186, Entropy Loss: -0.6810937523841858 Critic Loss: 634.794677734375
+Iteration: 428, Avg Return: -37.29206466674805, Policy CLIP loss: -0.07743946462869644, Entropy Loss: -0.6829280257225037 Critic Loss: 169.74362182617188
+Iteration: 429, Avg Return: -48.803497314453125, Policy CLIP loss: -0.07489721477031708, Entropy Loss: -0.6817201375961304 Critic Loss: 147.80650329589844
+Iteration: 430, Avg Return: -18.788108825683594, Policy CLIP loss: -0.03351272642612457, Entropy Loss: -0.6822910904884338 Critic Loss: 482.0380859375
+Iteration: 431, Avg Return: -46.31014633178711, Policy CLIP loss: -0.07525782287120819, Entropy Loss: -0.6827365159988403 Critic Loss: 157.7193145751953
+Iteration: 432, Avg Return: -14.768874168395996, Policy CLIP loss: -0.008112763985991478, Entropy Loss: -0.6836248636245728 Critic Loss: 535.0103759765625
+Iteration: 433, Avg Return: -49.304866790771484, Policy CLIP loss: -0.07499639689922333, Entropy Loss: -0.6833626627922058 Critic Loss: 158.968017578125
+Iteration: 434, Avg Return: -25.064781188964844, Policy CLIP loss: -0.03329082578420639, Entropy Loss: -0.6835879683494568 Critic Loss: 391.6260070800781
+Iteration: 435, Avg Return: -48.97258377075195, Policy CLIP loss: -0.08673064410686493, Entropy Loss: -0.6833013892173767 Critic Loss: 153.67169189453125
+Iteration: 436, Avg Return: -46.837181091308594, Policy CLIP loss: -0.05234600231051445, Entropy Loss: -0.6824957132339478 Critic Loss: 111.0146484375
+Iteration: 437, Avg Return: -15.862919807434082, Policy CLIP loss: -0.03083980642259121, Entropy Loss: -0.6835064888000488 Critic Loss: 604.0576171875
+Iteration: 438, Avg Return: -49.967323303222656, Policy CLIP loss: -0.06772418320178986, Entropy Loss: -0.6838305592536926 Critic Loss: 112.6641845703125
+Iteration: 439, Avg Return: -40.74071502685547, Policy CLIP loss: -0.06542995572090149, Entropy Loss: -0.6838708519935608 Critic Loss: 180.48419189453125
+Iteration: 440, Avg Return: -47.77464294433594, Policy CLIP loss: -0.06713327020406723, Entropy Loss: -0.6839335560798645 Critic Loss: 65.93821716308594
+Iteration: 441, Avg Return: -49.78016662597656, Policy CLIP loss: -0.06664438545703888, Entropy Loss: -0.6846838593482971 Critic Loss: 28.700927734375
+Iteration: 442, Avg Return: -49.8719596862793, Policy CLIP loss: -0.044355541467666626, Entropy Loss: -0.6856683492660522 Critic Loss: 8.63596248626709
+Iteration: 443, Avg Return: -47.518455505371094, Policy CLIP loss: -0.054230108857154846, Entropy Loss: -0.685408353805542 Critic Loss: 30.878765106201172
+Iteration: 444, Avg Return: -49.87775802612305, Policy CLIP loss: -0.08089181780815125, Entropy Loss: -0.684965193271637 Critic Loss: 2.235973596572876
+Iteration: 445, Avg Return: -48.976688385009766, Policy CLIP loss: -0.09557319432497025, Entropy Loss: -0.6852981448173523 Critic Loss: 9.021129608154297
+Iteration: 446, Avg Return: -37.78929138183594, Policy CLIP loss: -0.06206861138343811, Entropy Loss: -0.6861961483955383 Critic Loss: 289.98126220703125
+Iteration: 447, Avg Return: -47.635589599609375, Policy CLIP loss: -0.06280557811260223, Entropy Loss: -0.6864855885505676 Critic Loss: 32.89692687988281
+Iteration: 448, Avg Return: -18.980121612548828, Policy CLIP loss: -0.02225571870803833, Entropy Loss: -0.6875059008598328 Critic Loss: 908.8057861328125
+Iteration: 449, Avg Return: -49.0525016784668, Policy CLIP loss: -0.05019025504589081, Entropy Loss: -0.6891413331031799 Critic Loss: 15.96740436553955
+Iteration: 450, Avg Return: -35.405555725097656, Policy CLIP loss: -0.017284389585256577, Entropy Loss: -0.6908250451087952 Critic Loss: 327.0757751464844
+Iteration: 451, Avg Return: -44.45429611206055, Policy CLIP loss: -0.07888539880514145, Entropy Loss: -0.6910702586174011 Critic Loss: 101.50908660888672
+Iteration: 452, Avg Return: -43.627750396728516, Policy CLIP loss: -0.06743083894252777, Entropy Loss: -0.6913385987281799 Critic Loss: 92.64029693603516
+Iteration: 453, Avg Return: -49.78828048706055, Policy CLIP loss: -0.07433263957500458, Entropy Loss: -0.691169023513794 Critic Loss: 40.65188980102539
+Iteration: 454, Avg Return: -44.314571380615234, Policy CLIP loss: -0.06191042438149452, Entropy Loss: -0.6908707618713379 Critic Loss: 97.41069030761719
+Iteration: 455, Avg Return: -42.2525520324707, Policy CLIP loss: -0.08028356730937958, Entropy Loss: -0.6910480260848999 Critic Loss: 147.67514038085938
+Iteration: 456, Avg Return: -47.372535705566406, Policy CLIP loss: -0.05084504932165146, Entropy Loss: -0.6911541223526001 Critic Loss: 49.411094665527344
+Iteration: 457, Avg Return: -49.231529235839844, Policy CLIP loss: -0.09309618175029755, Entropy Loss: -0.690743088722229 Critic Loss: 27.44233512878418
+Iteration: 458, Avg Return: -49.311580657958984, Policy CLIP loss: -0.1054447591304779, Entropy Loss: -0.6902166604995728 Critic Loss: 12.267590522766113
+Iteration: 459, Avg Return: -38.096370697021484, Policy CLIP loss: -0.04000053554773331, Entropy Loss: -0.6895731091499329 Critic Loss: 292.8265686035156
+Iteration: 460, Avg Return: -46.687294006347656, Policy CLIP loss: -0.07052871584892273, Entropy Loss: -0.689553439617157 Critic Loss: 43.85269546508789
+Iteration: 461, Avg Return: -49.544124603271484, Policy CLIP loss: -0.11693849414587021, Entropy Loss: -0.6894361972808838 Critic Loss: 11.49968147277832
+Iteration: 462, Avg Return: -44.17105484008789, Policy CLIP loss: -0.0822591781616211, Entropy Loss: -0.6894204616546631 Critic Loss: 82.15528869628906
+Iteration: 463, Avg Return: -34.57756423950195, Policy CLIP loss: -0.07780931144952774, Entropy Loss: -0.6890567541122437 Critic Loss: 353.4925537109375
+Iteration: 464, Avg Return: -44.49476623535156, Policy CLIP loss: -0.058211375027894974, Entropy Loss: -0.6888893246650696 Critic Loss: 92.96151733398438
+Iteration: 465, Avg Return: -34.428924560546875, Policy CLIP loss: -0.03462975099682808, Entropy Loss: -0.6891942620277405 Critic Loss: 251.0668487548828
+Iteration: 466, Avg Return: -48.3477783203125, Policy CLIP loss: -0.0732891634106636, Entropy Loss: -0.6884056329727173 Critic Loss: 42.68737030029297
+Iteration: 467, Avg Return: -38.5252685546875, Policy CLIP loss: -0.07666897028684616, Entropy Loss: -0.6880276203155518 Critic Loss: 229.16854858398438
+Iteration: 468, Avg Return: -45.237220764160156, Policy CLIP loss: -0.08445761352777481, Entropy Loss: -0.687752902507782 Critic Loss: 92.4076919555664
+Iteration: 469, Avg Return: -41.6028938293457, Policy CLIP loss: -0.03860125318169594, Entropy Loss: -0.6874479651451111 Critic Loss: 150.62246704101562
+Iteration: 470, Avg Return: -49.79203796386719, Policy CLIP loss: -0.06834903359413147, Entropy Loss: -0.6877123117446899 Critic Loss: 44.150550842285156
+Iteration: 471, Avg Return: -44.04438018798828, Policy CLIP loss: -0.057763561606407166, Entropy Loss: -0.6879245638847351 Critic Loss: 112.57955169677734
+Iteration: 472, Avg Return: -48.061561584472656, Policy CLIP loss: -0.05535624921321869, Entropy Loss: -0.6876176595687866 Critic Loss: 28.406978607177734
+Iteration: 473, Avg Return: -21.089614868164062, Policy CLIP loss: -0.02543618157505989, Entropy Loss: -0.6881657242774963 Critic Loss: 772.3021850585938
+Iteration: 474, Avg Return: -42.401424407958984, Policy CLIP loss: -0.11321309208869934, Entropy Loss: -0.6881063580513 Critic Loss: 141.3345489501953
+Iteration: 475, Avg Return: -32.46184158325195, Policy CLIP loss: -0.011323375627398491, Entropy Loss: -0.6884419322013855 Critic Loss: 342.0408630371094
+Iteration: 476, Avg Return: -41.79469680786133, Policy CLIP loss: -0.08763279020786285, Entropy Loss: -0.6888579726219177 Critic Loss: 158.21937561035156
+Iteration: 477, Avg Return: -33.75791931152344, Policy CLIP loss: -0.0772930160164833, Entropy Loss: -0.688811719417572 Critic Loss: 243.88546752929688
+Won the gameIteration: 478, Avg Return: -11.70792007446289, Policy CLIP loss: -0.0252350065857172, Entropy Loss: -0.6885233521461487 Critic Loss: 874.4854736328125
+

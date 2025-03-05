@@ -24,5 +24,5 @@ def simulate(path):
     
 
 if __name__ == "__main__":
-    path = "checkpoints/2025-03-03_23-57-13/checkpoint_9.pth"
+    path = "checkpoints/2025-03-04_16-11-35/checkpoint_9.pth"
     simulate(path)

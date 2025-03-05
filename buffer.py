@@ -47,7 +47,7 @@ class Buffer:
         self.ret_buf[path_slice] = self._cum_sum(rews, self.gamma)[:-1]
 
         delta_i = rews[:-1] + self.gamma*vals[1:] - vals[:-1] # R + gamma * V(S') - V(S)
-        advs = self._cum_sum(delta_i, self.gamma * self.lamb) #GAE
+        self.adv_buf[path_slice] = self._cum_sum(delta_i, self.gamma * self.lamb)
 
         self.path_start_idx = self.ptr
         
